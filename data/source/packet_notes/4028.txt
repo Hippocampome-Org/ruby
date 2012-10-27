@@ -1,0 +1,23 @@
+Status: active
+
+Merger status:
+  - This packet is a result of a merger between CA1 0300 SCA-SR and CA1
+    0300 calbindin SR.
+  - Rejected merger with CA1 (-)1300 SLM-SR due to strength of A:SLM. 
+
+Notes:
+Possible future subclasses based on expression of chemical markers (SCA-SR packet appears to be CCK+; CB-SR packet is CB+)
+
+CA1 0300 SCA-SR notes:
+- Language of various authors indicates that dendrites can enter SLM or SO, but they do so "rarely" (Freund & Buzsaki, 1996).
+- SCA-ADI 2311 packet also exists
+- SCA 2300 packet no longer exists.  It was n=1 and that cell (Vida 1998) is now included here (same cell as Vida 2010, which was already in this packet)
+- SCA neurons in this packet are CCK+ (Cope 2002; Pawelzik 2002)
+
+CA1 0300 calbindin SR notes:
+- Other CA1 calbindin packets exist:
+    * CA1 calbindin 3100
+    * CA1 calbindin 0303
+    * CA1 calbindin-IS-1 0302
+    * CA1 calbindin-SO-SO 0003
+- CA3 calbindin packets also exist.

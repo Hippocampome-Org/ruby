@@ -1,0 +1,11 @@
+Status: active
+
+Merger status:
+    Merger with CA1 (-)0012 basket-FS-PTI cells revoked
+
+Notes:
+Axons exclusively target the axon initial segment of CA1 pyramidal cells (and, unlike basket cells, do not target other interneurons)
+
+Hippocampome rules enacted:
+- Rule 4, Section 3, Subsection ii, Clause 3 - perisomatic axonal targeting interpreted as PCL
+- Rule 4, Section 3, Subsection iii, Clause 1 - extended interpretation of SP in apical and basal directions

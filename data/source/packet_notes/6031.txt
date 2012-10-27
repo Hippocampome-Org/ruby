@@ -1,0 +1,7 @@
+Status: Active 
+
+Merger status: None being considered
+   
+Notes:  Text of Canto MEC preprint describes six multipolar cells in LIII.  Five of them do not have axons in LI.  This packet is for those cells.  The cell with axons in LI is in the multipolar 2 113310 packet.
+
+Excitatory call is borderline because sparsely spiny dendrites may indicate an inhibitory cell.

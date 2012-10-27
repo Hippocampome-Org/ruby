@@ -1,0 +1,12 @@
+Status:
+Active.
+
+Merger status:
+This packet is a merger of CA1 (-)0102 IS-I and CA1 (-)0112 IS-I
+
+Previous merger of CA1 (-)0102 IS-I with CA1 0103 O-R (aka oriens-bistratified) was rejected due to the lack of axonal evidence in SO.  Namely, even with six consecutive 80 ľm sections, axons were not significantly present.
+
+Notes:
+Packet now uses original (Gulyás) evidence rather than the Freund & Buzsáki review.
+
+According to Gulyás, the CR interneurons in this packet innervate mostly if not exclusively other GABAergic neurons via multiple synapses

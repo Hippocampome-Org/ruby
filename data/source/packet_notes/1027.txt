@@ -1,0 +1,21 @@
+Status:
+New. Active.
+
+Merger status:
+No current merger proposals.
+
+Cross-references:
+DG (-)2333p-CA3 01111 hilar interneuron with collaterals in all layers (HICAL)
+
+Notes:
+N = 4.
+
+A:DG:SMo and A:CA3c are less than 15%.
+
+D:CA3c is less than 15%.
+
+Youngest rats may be adolescents.
+
+Aspiny.
+
+A:SG form basket-like boutons around GC somata.  A:H form basket-like bouton arrays around somata.  These cells are the inverse of DG (-)2232 basket cells.  These have clear presence in SMi and H, and minimal in SG.

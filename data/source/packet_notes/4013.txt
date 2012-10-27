@@ -1,0 +1,3 @@
+This is a combo-class composed of
+  CA1 2333 bistratified (bi) cells
+  CA1 2333 radial trilaminar (tri) cells

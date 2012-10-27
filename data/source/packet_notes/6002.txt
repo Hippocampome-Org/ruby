@@ -1,0 +1,13 @@
+Status: active
+
+Merger status:
+    No current merger proposals.
+
+Notes:
+Likely excitatory cells (Gloveli -> GABA negative, projecting, EP characteristics similar to principal cells; van Haeften -> spiny; Canto & Witter -> projecting, "principal," sparsely spiny).
+
+The van Haeften et al. paper does not include mention of projection to Sub or DG.  Possibly lost to slicing or possibly outside the scope of their interest.
+
+While this morphology appears in Canto's 201X MEC preprint, there is no mention of this morphology in the LEC preprint.
+
+All references cited herein have been reviewed and included in the appropriate packets EXCEPT for Witter & Wouterlood's 2002 book, which was received via Interlibrary Loan by CLR on 06-14-11 and determined to contain no additional information relevant to the packet.

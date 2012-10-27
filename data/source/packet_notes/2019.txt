@@ -1,0 +1,37 @@
+Comments and minor edits have been made as suggested.
+
+This packet contains citations from:
+
+    Szabadics and Soltesz, 2009
+
+Background references checked and included in another packet:
+
+    Spruston et al., 1997 (CA3 03331 lucidum cells)
+
+    Spruston et al., 1997 (CA3 03320 lucidum cells)
+
+    Tóth and McBain, 1998 (CA3 02330 lucidum cells)
+
+    Tóth and McBain, 1998 (CA3 00300 lucidum cells)
+
+Background references checked and omitted:
+
+    Aaron et al., 2003: unable to stain axons
+
+    Acsády et al., 1997: no axonal information
+
+    Acsády et al., 1998: no axonal information    
+
+    Gulyas et al., 1992: unable to stain axons
+
+    Hsu and Buzsáki, 1993: ischemic cells only
+
+    Jinno et al., 2007: single CA3 cell that projects to CA1:SR_SP
+
+    Soriano and Frotscher, 1993: unable to stain axons
+
+    Szabadics et al., 2010: no axonal information
+
+    Takács et al., 2008: unable to stain axons
+
+    Wittner et al., 2006: no axonal or dendritic details

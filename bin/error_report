@@ -1,0 +1,72 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
+
+require 'highline/import'
+require 'methadone'
+require 'json'
+require 'pry'
+
+include Methadone::Main
+include Methadone::CLILogging
+
+main do
+  get_error_log_filepath
+  load_error_log
+  get_file_choices
+  select_file
+  get_file_errors
+  get_error_types
+  select_error_type
+  get_errors
+  get_outfilepath
+  write_errors
+end
+
+def get_error_log_filepath
+  @error_log_filepath = File.expand_path('../data/error_log.json', '__FILE__')
+end
+
+def load_error_log
+  @error_log = JSON.load(File.read(@error_log_filepath))
+end
+
+def get_file_choices
+  @file_choices = @error_log.map { |error| error["file"] }.uniq
+end
+
+def select_file
+  @filename = choose do |menu|
+    menu.prompt = "Choose a file: "
+    menu.choices(*@file_choices)
+  end
+end
+
+def get_file_errors
+  @file_errors = @error_log.select { |error| error["file"] == @filename }
+end
+
+def get_error_types
+  @error_types = @file_errors.map{ |error| error["type"] }.uniq
+end
+
+def select_error_type
+  @error_type = choose do |menu|
+    menu.prompt = "Choose an error type: "
+    menu.choices(*@error_types)
+  end
+end
+
+def get_errors
+  @errors = @file_errors.select { |error| error["type"] == @error_type }
+end
+
+def get_outfilepath
+  @outfilepath = "/Users/seanmackesey/Desktop/#{Date.today.strftime("%y%m%d")}_#{@filename.gsub(/\..*/,'')}_#{@error_type}_errors.json"
+end
+
+def write_errors
+  File.write(@outfilepath, JSON.pretty_generate(@errors))
+end
+
+go!

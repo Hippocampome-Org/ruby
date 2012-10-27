@@ -1,0 +1,6 @@
+Status: active 
+
+Merger status: 
+Merger with CA3 trilaminar 01113 rejected because of the lack of axonal presence in CA1 and Sub for these neurons.
+   
+Notes: 

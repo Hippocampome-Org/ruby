@@ -1,0 +1,21 @@
+Status:
+Active
+
+Merger status:
+No current merger proposals.
+
+Cross-references:
+CA1 (-)2302 interneuron specific-I (IS-I) neurons (suspended)
+CA1 (-)2300 interneuron specific-I (IS-I) neurons (suspended)
+CA1 (-)2223 interneuron specific-III (IS-III) neurons (active)
+CA1 (-)2111 interneuron specific-I (IS-I) neurons (suspended)
+CA1 (-)2003 interneuron specific-III (IS-III) neurons (active)
+CA1 (-)0302 interneuron specific-I (IS-I) neurons (suspended)
+CA1 (-)0221 interneuron specific-I (IS-I) neurons (suspended)
+CA1 (-)0203 interneuron specific-I (IS-I) neurons (suspended)
+CA1 (-)0102 interneuron specific-I (IS-I) neurons (active)
+
+Related classes:
+none.
+
+Notes: This packet was never officially ok'd by Giorgio.

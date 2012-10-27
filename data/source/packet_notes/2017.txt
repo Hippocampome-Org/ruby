@@ -1,0 +1,10 @@
+Status: Active 
+
+Merger status: Merger with CA3 MFA 02332
+   
+Notes:  Borderline
+        D: SP, SO? 
+
+This cell is based on one very blurry figure, but a dendrite in two of the cells does slightly enter SO.  Should we write to authors for a better figure?
+
+

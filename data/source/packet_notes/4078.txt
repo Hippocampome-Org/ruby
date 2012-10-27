@@ -1,0 +1,24 @@
+Status: active
+
+Merger status:
+    Merger with CA1 2223 axo-axonic cells REVOKED due to the issue of
+        target specificity.  Axo-axonic cells exclusively target 
+        pyramidal cells while basket cells are also known to target
+        other interneurons.
+
+Notes:
+Other classes of CA1 basket cells:
+- basket 0012 cells are in the 0012 PTI packet
+- basket 2113 neurons mentioned by Fuentealba (2010) are n=1
+- basket PV wide-arbour neurons mentioned by Pawelzik (2002) are considered ivy-like cells and are included in the 0333 packet
+- basket 0232 neurons mentioned by Freund & Buzsaki (1996) likely also 
+have dendritic invasion in SLM (evidence based on Pawelzik (2002), 
+meaning they are really basket 2232
+
+Hippocampome rules enacted:
+- Rule 4, Section 3, Subsection ii, Clause 3 - perisomatic axonal targeting interpreted as PCL
+- Rule 4, Section 3, Subsection iii, Clause 1 - extended interpretation of SP in apical and basal directions
+
+Original evidence added (Buhl et al., 1994).
+
+Kawaguchi et al., 1987 added 09/06/11 by DWW.

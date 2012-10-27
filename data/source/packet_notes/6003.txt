@@ -1,0 +1,11 @@
+All prior comments have been addressed.
+
+Axonal presence in CA1 has been removed since it is below 15% and
+unsupported by the conclusions of the authors.
+
+This packet contains primary literature, in order of primacy from:
+	Tamamaki and Nojyo, 1993 (EC layer II stellate cells)
+	Canto and Witter, MEC prepreint (EC layer II stellate cells)
+	Jones, 1994 (EC layer II type I & II stellate cells)
+	Beed et al., 2010, (EC layer II stellate cells)
+	Schwartz and Coleman, 1981, (EC layer II stellate cells)

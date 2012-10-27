@@ -1,0 +1,12 @@
+Status: Approved 
+
+Merger status: 
+No current merger proposals.
+
+Failed unofficial merger proposal with EC 023100 bipolar 2 because MPI cells project to the hippocampus and there isn't evidence that these cells do that.
+   
+Notes:  These cells are also found in layer II
+
+Axon to hippocampus.
+
+Inhibitory because of GABA immunoreactivity and sparsely spiny dendrites.

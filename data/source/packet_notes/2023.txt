@@ -1,0 +1,14 @@
+Status: active
+
+Merger status:
+    This packet is a result of a merger between CA3 03000 R and CA3 03000
+    calbindin.
+    
+
+Notes:
+Notes on CA3 03000 calbindin:
+- Gulyas 1996 text states:  "axons, at least the reconstructed sections, were [restricted to SR]," so they may be incomplete.  Their evidence is based on six serially-reconstructed sections of 80 microm each.  This is sufficient, and the packet (as in all other cases) is based on the evidence available to us.
+- Other CA3 calbindin packets exist:  CA3 02200 calbindin and CA3 00003 calbindin
+
+
+Electrophysiology information is available for CA3 03000 radiatum cells and chemical marker information is available for CA3 03000 calbindin cells.  However, since there is no apparent overlap, there is no basis for the creation of subclasses within our framework at this point.

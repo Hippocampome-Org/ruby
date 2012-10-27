@@ -1,0 +1,2507 @@
+[
+  {
+    "type": "empty_row",
+    "row": 27,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 62,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 68,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 121,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 127,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 15,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 19,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 31,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 84,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 90,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 98,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 108,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 114,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 127,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 147,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 170,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 207,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 217,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 220,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 233,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 237,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 247,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 268,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 281,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 294,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 307,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 314,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 324,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 331,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 341,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 348,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 409,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 418,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 421,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 424,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 430,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 440,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 450,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 457,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 463,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 478,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 485,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 489,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 493,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 500,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 550,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 552,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 561,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 572,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 578,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 587,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 600,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 605,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 609,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 618,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 642,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 652,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 675,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 679,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 712,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 722,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 728,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 737,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 755,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 764,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 767,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 772,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 775,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 784,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 817,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 838,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 855,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 860,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 866,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 879,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 888,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 891,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 902,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 913,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 927,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 932,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 946,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 951,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 965,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 982,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 996,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1004,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1006,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1014,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1016,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1027,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1031,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1036,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1041,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1046,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1052,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1057,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1065,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1067,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1089,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1097,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1105,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1111,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1118,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1128,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1137,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1140,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1148,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1168,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1194,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1198,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1205,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1209,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1215,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1222,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1226,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1234,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1240,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1247,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1274,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1279,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "quote"
+    ],
+    "row": 1289,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1290,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1296,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1304,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1318,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1338,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1354,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1364,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1384,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1397,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1407,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1411,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1418,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1425,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1439,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1443,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1448,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1452,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1472,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1478,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1484,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1493,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1501,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1507,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1514,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1519,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1531,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1548,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1556,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1562,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1578,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1581,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1590,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1593,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1602,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1609,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1616,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1624,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "original_id"
+    ],
+    "row": 1639,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1641,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1647,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1660,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1677,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1684,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 5,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 116,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 235,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 259,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 263,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 265,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 266,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 277,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 280,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 304,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 315,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 319,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 322,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 388,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 407,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 410,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 412,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 416,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 418,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 425,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 427,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 429,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 449,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 470,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 471,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 473,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 475,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 485,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 490,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 492,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 493,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 494,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 495,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 496,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 497,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 498,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 499,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 500,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 501,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 502,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 503,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 504,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 505,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 506,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 507,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 509,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 510,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 512,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 516,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 519,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 522,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 524,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 530,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 535,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 537,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 539,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 542,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 544,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 546,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 550,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 553,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 557,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 559,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 564,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 572,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 574,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 581,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 585,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 587,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 593,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 596,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 598,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 600,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "2880880",
+    "row": 373,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "1360155",
+    "row": 374,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "18440708",
+    "row": 497,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "18440708",
+    "row": 498,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "18440708",
+    "row": 499,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "18440708",
+    "row": 500,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "10804195",
+    "row": 501,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "10804195",
+    "row": 502,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "10804195",
+    "row": 503,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "10804195",
+    "row": 504,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "10804195",
+    "row": 505,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "10804195",
+    "row": 506,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "10804195",
+    "row": 507,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "12687707",
+    "row": 508,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "8434003",
+    "row": 509,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "8434003",
+    "row": 510,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "8434003",
+    "row": 511,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "8434003",
+    "row": 512,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "8434003",
+    "row": 513,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "8434003",
+    "row": 514,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "22016519",
+    "row": 524,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "22016519",
+    "row": 525,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "22666191",
+    "row": 526,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "9332723",
+    "row": 527,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "7751967",
+    "row": 528,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "7751967",
+    "row": 529,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "7751967",
+    "row": 530,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "7751967",
+    "row": 531,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "7751967",
+    "row": 532,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "7751967",
+    "row": 533,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_article_error",
+    "pmid_isbn": "7751967",
+    "row": 534,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 6,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 7,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 8,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 12,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 14,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 16,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 17,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 18,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 23,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 26,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 40,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 46,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 48,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 51,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 52,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 58,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 62,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 65,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 79,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 110,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "type_id"
+    ],
+    "row": 111,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 19,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 32,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 33,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 41,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 42,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 51,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 53,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 99,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 100,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 101,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2029",
+    "row": 174,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2029",
+    "row": 175,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2030",
+    "row": 182,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 187,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 192,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 197,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2029",
+    "row": 199,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 201,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 203,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2030",
+    "row": 205,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2029",
+    "row": 208,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 211,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 217,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 222,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2030",
+    "row": 223,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2029",
+    "row": 225,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 228,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 229,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 253,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 277,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 279,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 280,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 303,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 313,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 330,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 334,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 339,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 346,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 347,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2030",
+    "row": 427,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1009, 1033",
+    "row": 428,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "type_id",
+      "filename",
+      "figure_table"
+    ],
+    "row": 434,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037, 4036, 4033, 4026",
+    "row": 435,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037, 4026",
+    "row": 436,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037, 4036, 4033, 4015, 4028, 4003, 4039",
+    "row": 438,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 439,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037, 4036, 4033, 4026, 4028, 4000, 4003",
+    "row": 445,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 454,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "type_id",
+      "filename",
+      "figure_table"
+    ],
+    "row": 456,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 462,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 463,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 465,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 472,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 473,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4037",
+    "row": 482,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 483,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4000, 4036, 4037, 4026, 4069, 4006, 4005, 4035, 4023, 4021, 4020",
+    "row": 488,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4026",
+    "row": 489,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 525,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "1033",
+    "row": 526,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2030",
+    "row": 529,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2030",
+    "row": 534,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "2030",
+    "row": 536,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4005, 4000, 4069, 4036, 4037",
+    "row": 578,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4036, 4037",
+    "row": 579,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 600,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 601,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 602,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 603,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 604,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 605,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 606,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 30,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 65,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 71,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 124,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 130,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "101.11872264   ?",
+    "row": 9,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": " ",
+    "row": 22,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "201.161016 200.161120",
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "",
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "",
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "211.160766 201.161152",
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "101.161098 210.161160",
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "101.161088 110.161160",
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "row": 5,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "row": 5,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  }
+]

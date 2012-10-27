@@ -1,0 +1,14 @@
+Status: active 
+
+Merger status:  none being considered 
+  
+Notes: The 03320 class has been mapped into this 03300 class, since they differ only by dendrites in SP.
+New rule invoked: when compressing classes, leave axons in PCL because
+of the issue of target specificity but discount dendrites.  Therefore, 
+this class is now considered 03300 (instead of 03320).
+
+The contrast in some of the figures has been artificially enhanced to 
+make them more legible.
+
+         Borderline
+         dendrites in SP

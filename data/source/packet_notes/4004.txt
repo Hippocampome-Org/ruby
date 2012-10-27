@@ -1,0 +1,19 @@
+Status:
+Active.
+
+Merger status:
+Rejected merger with CA1 (-)3300-DG 0110 radiatum- and dentate-
+innervating (RADI) neurons (new) due to weakness of D:CA1:SR and A:DG:SMo.
+  
+Cross-references:
+CA1 (-)2333 bistratified-trilaminar (bi-tri) neurons (active)
+CA1 (-)3202 perforant path-associated (PPA) neurons (new, proposed for suspension)
+CA1 (-)0313 radial trilaminar neurons (new, proposed for suspension)
+
+Related classes:
+CA1 (-)3220 perforant path-associated (PPA) neurons (new)
+CA1 (-)3200p-DG 1000-SUB 100 perforant path II (PP II) neurons (active)
+
+Notes: Added Hájos Figure 3B.  Interpretation is unchanged.
+
+Sub-threshold evidence for dendrites in CA1:SO.

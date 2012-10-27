@@ -1,0 +1,15 @@
+Status: Active
+
+Merger status:
+    This packet is a result of a merger between MEC 000023 pyramidal VI
+    and EC 000023 polymorphic V.
+
+Notes:
+Likely excitatory cells (Canto 201X MEC preprint -> "sparsely spiny to spiny," projecting; Hamam 2000 -> short spines, projecting).
+
+Notes on MEC 000023 pyramidal packet:
+- dendrites and axons in the white matter
+
+Notes on EC 000023 polymorphic packet:
+- weak evidence on axons
+- unclear whether dendrites project to the subiculum or to the presubiculum.  The packet was previously approved by D, C, C, and G with dendritic presence in Sub:SP, but Charise pointed out that because of the position of the cell relative to the angular bundle, the projection could be to the presubiculum.  Notes have been added.

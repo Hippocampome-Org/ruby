@@ -1,0 +1,34 @@
+Status: active
+
+Merger status:
+This packet is a result of a merger between CA1 (-)3220 perforant path-associated (PPA) neurons and CA1 (-)3202 perforant path-associated (PPA) neurons.
+
+Rejected merger between CA1 (-)3202 perforant path-associated (PPA) neurons and CA1 (-)1202 pyramidal/radiatum-lacunosum moleculare (PR-LM) neurons. 
+
+Cross-references:
+CA3 (-)30000 stratum lacunosum-moleculare (SLM) neurons (suspended)
+CA3 (-)23100 associational commissural-associated (ACA) neurons (suspended)
+CA3 (-)03000 radiatum-calbindin (R-CB) neurons (active)
+CA3 (-)02320 mossy fiber-associated (MFA) neurons (suspended)
+CA1 (-)3300p-DG 1110 perforant path I (PP I) neurons (active)
+CA1 (-)3300 neurgliaform--lacunosum moleculare (NGF-LM) neurons (active)
+CA1 (-)3220 perforant path associated (PPA) neurons (new)
+CA1 (-)3000 neurogliaform II (NGF II) neurons (active)
+CA1 (-)2333 bistratified-trilaminar neurons (active)
+CA1 (-)2232 basket cells (BC) (active)
+CA1 (-)1003 oriens--lacunosum-moleculare (O-LM) neurons (new)
+CA1 (-)0333 bistratified-ivy neurons (active)
+CA1 (-)0313 radial trilaminar neurons (suspended)
+CA1 (-)0311 basket cells (BC) (new)
+CA1 (-)0300 Schaffer collateral associated-stratum radiatum-calbindin (SCA-SR-CB) neurons (active)
+CA1 (-)0113p-SUB 111 trilaminar horizontal-oriens retrohippocampal projecting-double projecting-oriens (TH-ORP-DP-OR) neurons (active)
+CA1 (-)0113 oriens-bistratified (O-Bi) neurons (new)
+CA1 (-)0012 axo-axonic (AA) neurons (active)
+CA1 (-)0012 perisomatic-targeting interneurons (PTI) (active)
+CA1 (-)0003 stratum oriens-stratum oriens (SO-SO) neurons (active)
+
+Related classes:
+CA1 (-)3200p-DG 1000-SUB 100 perforant path II (PP II) neurons (active)
+
+Notes:
+Tricoire (2011): Borderline D:SLM.

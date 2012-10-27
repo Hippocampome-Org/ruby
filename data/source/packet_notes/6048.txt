@@ -1,0 +1,7 @@
+EC 033000 AA's have now been re-split into this packet and EC 023000 AA's.
+
+This packet contains primary literature from:
+
+    Soriano et al., 1993 (EC layer II/III chandelier cells)
+
+Old comments are at the end of the packet.

@@ -1,0 +1,34 @@
+Status: new
+Active.
+
+Merger status:
+Rejected for merger with CA1 (-)0300 SCA-SR-CB due to strength of A:SLM.
+
+Cross-references:
+CA3 (-)30000 stratum lacunosum-moleculare (SLM) neurons (suspended)
+CA3 (-)23100 associational commissural-associated (ACA) neurons (suspended)
+CA3 (-)03000 radiatum-calbindin (R-CB) neurons (active)
+CA3 (-)02320 mossy fiber-associated (MFA) neurons (suspended)
+CA1 (-)3300 neurgliaform--lacunosum moleculare (NGF-LM) neurons (active)
+CA1 (-)3220 perforant path associated (PPA) neurons (new)
+CA1 (-)3000 neurogliaform II (NGF II) neurons (active)
+CA1 (-)2333 bistratified-trilaminar neurons (active)
+CA1 (-)2232 basket cells (BC) (active)
+CA1 (-)1003 oriens--lacunosum-moleculare (O-LM) neurons (new)
+CA1 (-)0333 bistratified-ivy neurons (active)
+CA1 (-)0311 basket cells (BC) (new)
+CA1 (-)0300 Schaffer collateral associated-stratum radiatum-calbindin (SCA-SR-CB) neurons (active)
+CA1 (-)0113p-SUB 111 trilaminar horizontal-oriens retrohippocampal projecting-double projecting-oriens (TH-ORP-DP-OR) neurons (active)
+CA1 (-)0113 oriens-bistratified (O-Bi) neurons (new)
+CA1 (-)0012 axo-axonic (AA) neurons (active)
+CA1 (-)0012 perisomatic-targeting interneurons (PTI) (active)
+CA1 (-)0003 stratum oriens-stratum oriens (SO-SO) neurons (active)
+
+Related classes:
+CA1 (-)3000p-DG 3000 neurogliaform (NGF) neurons (active)
+CA1 (-)2311 Schaffer collateral-associated-apical dendrite-innervating (SCA-ADI) neurons (active)
+CA1 (-)2300 Schaffer collateral-associated (SCA) neurons (suspended)
+
+Notes: Awaiting possible clarifying information from Ken Pelkey.
+
+N = 2.

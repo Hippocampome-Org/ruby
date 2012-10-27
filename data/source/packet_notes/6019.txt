@@ -1,0 +1,13 @@
+Status: active
+
+Merger status:
+No current merger proposals.
+
+Failed unofficial merger proposals with MEC (+)331111p stellate II, EC (+)331000p excitatory II, and EC (+)231000 FOMP.
+
+Notes:
+A:V less than 15%.
+
+N = 5.
+
+Spiny dendrites.

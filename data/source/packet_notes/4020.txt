@@ -1,0 +1,9 @@
+Status: active
+
+Merger status:
+    No current merger proposals
+
+Notes:
+- Target O-LM cells (Acsady 1996)
+
+- Packet contains papers with chemical marker data

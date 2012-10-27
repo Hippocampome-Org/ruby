@@ -1,0 +1,11 @@
+Status: Active (new packet)
+
+Merger status: None
+
+Cross reference:  CA3 (-)02332p MFA 
+   
+Notes: The articles in this packet were part of the old MFA 03332p packet.  That packet has been split into this packet and the 02332p packet.  
+
+Axons is SR are borderline; however, Dr. Ivan Soltesz in an e-mail suggests that MFA axons synapse with CA3 granule cells in SR. 
+
+Axons in SO less than 15%.

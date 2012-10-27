@@ -1,0 +1,8 @@
+Status: Active 
+
+Merger status:
+No current merger proposals.
+Failed unofficial merger proposals with EC 233000 MPI 1 III and EC 230000 MPI-BC II.
+   
+Notes:  
+Inhibitory because they have aspiny dendrites and fast time constant

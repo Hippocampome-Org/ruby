@@ -1,0 +1,38 @@
+Status: Active.
+
+Merger status: No current merger proposals.
+
+Cross-references: DG (+)2323 mossy cells (suspended)
+
+Notes:
+All A:SG interpretations have been changed into comments instead.
+
+Axonal lengths (avg. of 3 cells): SMo = 4%, SMi = 57%, SG = 7%, H = 26%, CA3 = 3%, CA1 = 1%.
+
+Axonal synapses: H = 15%, SG = 3%, SMi = 82%.
+
+No A:SG contacts in deep SG and only sparse A:SG contacts onto dendritic spines and shafts and a GC soma.
+
+Amaral (1978) states D:SM in young (<14 d) and old (18 m) but not at 28 d.
+
+Ribak et al. (1985) states occasional D:SM_SG but rarely in mature brain.
+
+Dendrites appear to avoid CA3.
+
+Thorny excrescences on proximal dendrites and somata and spines on distal dendrites.
+
+Excitatory asymmetric synapses.
+
+A:H primarily contact GABA-positive dendritic shafts, some somata, and GABA-negative dendritic spines. 
+
+A:SG contact dendritic spines and shafts and GC somata.
+
+A:SMi primarily contact GC proximal dendritic spines.
+
+In Lübke et al. (1998) some of the youngest rats may be adolescents.
+
+The spiny hilar cells of Scharfman (1990) were considered for this packet and rejected due to D:SMo_SMi and no axonal information.
+
+The mossy cells of Soltesz et al. (1993) were considered for this packet and determined to be DG (+)2323 mossy cells in another packet.
+
+Packet rating:

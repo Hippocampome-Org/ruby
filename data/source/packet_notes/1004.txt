@@ -1,0 +1,15 @@
+Status:
+Active.
+
+Merger status:
+No current merger proposals.
+
+Cross-references:
+DG (-)3302 TML-MOLAX neurons (active)
+DG (-)1220 OML neurons (need approval for suspension)
+
+Notes: Mott Figure 5 (p. 4) has been added for reference.
+
+Mott 1997 dendrite interpretation has been added and the soma interpretation has been removed.
+
+Bartos (2010): A:SG is less than 15%.

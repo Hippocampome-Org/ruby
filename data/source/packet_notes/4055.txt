@@ -1,0 +1,21 @@
+Status: active
+    Previous (outdated) O-A 2233 packet was suspended (see below).
+    It was split into this active packet and an 0233 suspended packet.
+
+Merger status:
+    No current merger proposals.
+
+Notes:
+Target pyramidal cells (dendrites, somata, AND axon initial segment) as well as other interneurons (dendrites).
+
+The Lacaille papers were previously considered inadequate for the creation of an active cell class.  That decision was revisited.
+
+According to the 1990 paper, 50% of the cells have D:SLM and 50% do not.  Unfortunately, the extent of the dendrites in the latter case is unclear and the packet is suspended.  See also:  CA1 0233 O-A.
+
+Lacaille 1987 mentions other (unspecified) morphologies and contains some troubling/vague phrasing, but there is enough evidence in their text to push this through as a class.
+
+Lacaille 1990 does not contain axonal information and is in a separate species (rat, rather than guinea pig), BUT since the first author is the same and he makes the statement that these cells have "similar morphology," the information is considered linked and is used.
+
+
+
+Packet contains papers with abundant electrophysiology data.

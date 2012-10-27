@@ -1,0 +1,11 @@
+Status: active
+
+Merger status:
+Rejected merger with LEC (+)113330 multipolar neurons 1 III (MPN 1 III), since these cells have "no main apical dendrite traveling up to the pia" and, for MPN 1 III, "Within LI the diameter of the apical dendritic tree can be up to 400 microm." 
+
+Notes:
+Likely excitatory cells (Canto 201X MEC preprint -> "principal," spiny to sparsely spiny).
+
+Quilichini data moved to another packet.
+Canto LEC bipolar V neurons moved to another packet.
+Canto 2008 schematic moved to another packet.

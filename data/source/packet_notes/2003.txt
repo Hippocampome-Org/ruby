@@ -1,0 +1,25 @@
+Status: active
+Single reference packet, but n = 7 out of 10.
+
+Merger status:
+No mergers currently proposed
+
+Notes:
+Alexander has yet to establish specific tresholds for EP parameters to
+be used in determining whether a cell calss is excitatory or inhibitory.
+However, he has looked at this particular case and believes that this
+class is excitatory. As our resident expert, his opinion is good enough
+for us to make that call at this point.  (see packet pg.3.)
+
+The authors do note speculate as to whether the cells are E or I, choosing
+instead to remark that the class has properties of both.
+
+There is also a CA3 22011 RGC packet in suspended animation (n=3).
+Ca1 2201 RGCs also exist and are known to be excitatory.
+
+This packet contains citations from Savic & Sciancalepore, 2001. 
+Background references checked and omitted:
+- Gulyas et al., 1998: CA1 radiatum giant cells
+- Jonas et al., 1993: CA3 pyramidal cells
+- Macaferri and McBain, 1996: CA1 cells
+- McMahon and Kauer, 199: CA1 cells

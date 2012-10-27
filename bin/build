@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
+
+gem 'csv_port', '=0.0.1'
+require 'csv_port'
+require 'methadone'
+
+include Methadone::Main
+include Methadone::CLILogging
+
+main do
+  begin
+    path = File.expand_path('..', '__FILE__')
+    builder = CSVPort::Builder.new(path, options)
+    builder.build
+  rescue StandardError => e
+    binding.pry
+  end
+end
+
+on("-c", "--clear_errors", "Clear error logs")
+on("-e", "--empty_database", "Empty the database")
+on("-u", "--update_source_files", "Update the source data")
+on("-v", "--add_views", "Add database views")
+
+description "Builds the database from source files"
+
+go!
