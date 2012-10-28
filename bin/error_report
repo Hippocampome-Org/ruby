@@ -20,8 +20,11 @@ main do
   select_error_type
   get_errors
   get_outfilepath
+  print_errors if options[:print_errors]
   write_errors
 end
+
+on("-p", "--print_errors", "Prints selected errors to the terminal")
 
 def get_error_log_filepath
   @error_log_filepath = File.expand_path('../data/error_log.json', '__FILE__')
@@ -63,6 +66,10 @@ end
 
 def get_outfilepath
   @outfilepath = "/Users/seanmackesey/Desktop/#{Date.today.strftime("%y%m%d")}_#{@filename.gsub(/\..*/,'')}_#{@error_type}_errors.json"
+end
+
+def print_errors
+  puts @errors
 end
 
 def write_errors

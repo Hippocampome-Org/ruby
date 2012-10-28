@@ -14,42 +14,42 @@ PORTING_LIBRARY = {
 }
 
 SOURCE_DATA = [
-  {
-    filename: 'type.csv',
-    target: :type,
-  },
-  {
-    filename: 'article.csv',
-    target: :article
-  },
-  {
-    filename: 'morph_fragment.csv',
-    target: :morph_fragment
-  }, 
-  {
-    filename: 'marker_fragment.csv',
-    target: :marker_fragment
-  },
-  {
-    filename: 'packet_notes.csv',
-    target: :packet_notes
-  },
-  {
-    filename: 'figure.csv',
-    target: :figure
-  },
-  {
-    filename: 'markerdata.csv',
-    target: :markerdata
-  },
+  #{
+    #filename: 'type.csv',
+    #target: :type,
+  #},
+  #{
+    #filename: 'article.csv',
+    #target: :article
+  #},
+  #{
+    #filename: 'morph_fragment.csv',
+    #target: :morph_fragment
+  #}, 
+  #{
+    #filename: 'marker_fragment.csv',
+    #target: :marker_fragment
+  #},
+  #{
+    #filename: 'packet_notes.csv',
+    #target: :packet_notes
+  #},
+  #{
+    #filename: 'figure.csv',
+    #target: :figure
+  #},
+  #{
+    #filename: 'markerdata.csv',
+    #target: :markerdata
+  #},
   {
     filename: 'epdata.csv',
     target: :epdata
   },
-  {
-    filename: 'hc_main.csv',
-    target: :hc_main
-  },
+  #{
+    #filename: 'hc_main.csv',
+    #target: :hc_main
+  #},
 ]
 
 HELPER_DATA = [

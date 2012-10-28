@@ -45,9 +45,9 @@ module Hippocampome
     def process
       unpack_fields
       @unvetted = Processors.unvetted?(@statement)
-      @raw = @statement.dup  # we are going to digest the statement
       $field = @record.ep_property_name
       clean_statement
+      @raw = @statement.dup  # we are going to digest the statement
       check_if_unknown
       #check_if_not_yet_extracted
       #return nil if @not_yet_extracted
@@ -84,7 +84,7 @@ module Hippocampome
     #end
 
     def clean_statement
-      @statement = @statement.gsub('−', '-').gsub(' ', ' ').gsub('ą', 'q').delete("\r_").strip  # replace bad negative signs and spaces ('THIN SPACE!!!')
+      @statement = @statement.gsub('−', '-').gsub(' ', ' ').gsub('ą', '±').delete("\rÂ_").strip  # replace bad negative signs and spaces ('THIN SPACE!!!')
     end
 
     def check_if_unknown
@@ -97,21 +97,21 @@ module Hippocampome
     #end
 
     def parse_statement
-      #binding.pry if @statement.include?('(16)')
+      binding.pry if @statement.include?('1.75@X')
       extract_pmid_isbn
       remove_whitespace
-      #binding.pry
+      binding.pry
       remove_braces
       remove_whitespace
-      #binding.pry
+      binding.pry
       extract_n_and_sem  # in rightside parens
       remove_whitespace
-      #binding.pry
+      binding.pry
       extract_at
       remove_whitespace
-      #binding.pry
+      binding.pry
       extract_table_figure_quote_and_number
-      #binding.pry
+      binding.pry
     #rescue StandardError => e
       #binding.pry
     end
@@ -208,7 +208,7 @@ module Hippocampome
     end
 
     def parse_at
-      @istim, @time = *@at.scan(/@-?[X\d]+/).map{|m| m.delete('@')}
+      @istim, @time = *@at.scan(/@-?[XY\d]+/).map{|m| m.delete('@')}
       @istim = "unknown" if @istim == "X"
       @time = "unknown" if @time == "X"
     end
