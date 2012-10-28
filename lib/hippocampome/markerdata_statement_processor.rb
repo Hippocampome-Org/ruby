@@ -46,7 +46,6 @@ module Hippocampome
 
     def process
       unpack_fields
-      @unvetted = Processors.unvetted?(@statement)
       validate_string
       @coded_data, @ref_id = @statement.split('.')
       @ref_id = @ref_id.delete('?').to_i

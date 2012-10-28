@@ -4,6 +4,10 @@ module Hippocampome
 
     include CSVPort::RecordProcessor
 
+    class << self
+      attr_accessor :unit_hash
+    end
+
     @unit_hash = {
       Vrest: 'mV',
       Rin: 'mOm',

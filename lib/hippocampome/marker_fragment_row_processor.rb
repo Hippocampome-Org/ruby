@@ -1,3 +1,5 @@
+require '/Users/seanmackesey/Desktop/biblimatch/lib/biblimatch'
+
 module Hippocampome
 
   class MarkerFragmentRowProcessor
@@ -22,7 +24,19 @@ module Hippocampome
     def extract_page_number
       #binding.pry
       page = Processors.extract_page_number(@data_page_location)
-      @first_page = (page.nil? ? nil: ArticleMatcher.new(@pmid_isbn, page).match.first_page)
+      if page
+        values = {
+          pmid_isbn: @pmid_isbn,
+          page: page
+        }
+        @first_page = Biblimatch::Matcher.new(values, :hippocampome, source_database: :hippocampome).match[:first_page]
+      else
+        @first_page = nil
+      end
+    rescue Biblimatch::NoMatchError
+      raise CSVPort::InvalidRecordError.new(type: :missing_article, pmid_isbn: @pmid_isbn)
+    rescue StandardError => e
+      binding.pry
     end
 
   end

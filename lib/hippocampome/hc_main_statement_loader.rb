@@ -52,7 +52,7 @@ module Hippocampome
     end
 
     def link_evidence_to_property_to_type
-      link(@evidence, @property, @type)
+      link(@evidence, @property, @type, @vet_data)
     end
 
     def get_vet_data

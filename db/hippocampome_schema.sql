@@ -14,7 +14,7 @@ CREATE TABLE Article (
   pmcid VARCHAR(16),
   nihmsid VARCHAR(16),
   doi VARCHAR(64),
-  open_access BOOLEAN,
+  open_access TINYINT(1),
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   title VARCHAR(512),
   publication VARCHAR(128),
@@ -34,7 +34,7 @@ CREATE TABLE Author (
 CREATE TABLE Epdata (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  raw VARCHAR(100),
+  raw VARCHAR(162),
   value1 VARCHAR(32),
   value2 VARCHAR(32),
   error VARCHAR(32),
@@ -42,7 +42,8 @@ CREATE TABLE Epdata (
   n VARCHAR(32),
   istim VARCHAR(32),
   time VARCHAR(32),
-  unit VARCHAR(8)
+  unit VARCHAR(8),
+  location VARCHAR(128)
 );
 
 CREATE TABLE Evidence (
@@ -167,7 +168,7 @@ CREATE TABLE EvidencePropertyTypeRel (
   FOREIGN KEY (Evidence_id) REFERENCES Evidence(id),
   FOREIGN KEY (Property_id) REFERENCES Property(id),
   FOREIGN KEY (Type_id) REFERENCES Type(id),
-  unvetted BOOLEAN
+  unvetted TINYINT(1)
 );
 
 CREATE TABLE EvidenceMarkerdataRel (

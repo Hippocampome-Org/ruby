@@ -2,6 +2,7 @@
 
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
 
+require 'biblimatch'
 require 'csv_port'
 require 'hippocampome'
 require 'rb-readline'
@@ -30,7 +31,8 @@ puts "AFTER: "
 sources_to_add.each do |source| puts source end
 if sources_to_add.any?
   sources_to_add.each do |pmid|
-    hash = Hippocampome::ArticleMatcher.new(pmid).fetch_from_pubmed.export_for_article_csv
+    hash = Biblimatch::Matcher.new({PMID: pmid}, :pubmed, output_database: :hippocampome).match
+    binding.pry
     row_values = article_table.headers.map do |header|
       (hash[header] or nil)
     end

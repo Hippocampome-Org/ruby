@@ -6,28 +6,13 @@ module Hippocampome
 
     include CSVPort::RecordProcessor
 
-    # Group numbering:
-    # 1:pmid | 2:table_figure_quote | 3:number | 4:don't use | 5:n | 6:at
-
-    pmid = /\d+/
-    table_figure_quote = /.+/
-    #number = /[\d±\s\.\-]+\d/
-    number = /[\d±\s\.\-]+\d/
-    #number = /[\d±\s\.\-,]+\d/  # current hack
-    #number = /^-?\d+\.?\d+(\s*[±\-]?\s*-?\d+\.?\d+)?/
-    n = /\d+/
-    at = /[@\-\d\.]+/
-    #@regex = /(#{pmid})\s*\{(#{table_figure_quote});\s*(#{number})\s*(\((#{n})\))?\}/
-    @regex = /(#{pmid})\s*\{(#{table_figure_quote});\s*\[?(#{number})\]?\s*(\((#{n})\))?\s*(#{at})?\}/
-    #@regex = /(#{pmid})\s*\{(#{table_figure_quote});\s*\[?(#{number})\]?\s*(#{at})?\s*(\((#{n})\))?\s*(#{at})?\}/  # current hack
-
     class << self
       attr_accessor :regex
     end
 
     attr_accessor :string
     attr_accessor :pmid
-    attr_accessor :table_figure_quote
+    attr_accessor :location
     attr_accessor :value1
     attr_accessor :value2
     attr_accessor :sem
@@ -36,6 +21,7 @@ module Hippocampome
     attr_accessor :istim
     attr_accessor :time
     attr_accessor :unique_id
+    attr_accessor :unit
     attr_accessor :unvetted
 
     def initialize(record)
@@ -45,9 +31,9 @@ module Hippocampome
     def process
       unpack_fields
       @unvetted = Processors.unvetted?(@statement)
-      @raw = @statement.dup  # we are going to digest the statement
       $field = @record.ep_property_name
       clean_statement
+      @raw = @statement.dup  # we are going to digest the statement
       check_if_unknown
       #check_if_not_yet_extracted
       #return nil if @not_yet_extracted
@@ -84,7 +70,7 @@ module Hippocampome
     #end
 
     def clean_statement
-      @statement = @statement.gsub('−', '-').gsub(' ', ' ').gsub('ą', 'q').delete("\r_").strip  # replace bad negative signs and spaces ('THIN SPACE!!!')
+      @statement = @statement.gsub('−', '-').gsub(' ', ' ').gsub('ą', '±').delete("\rÂ_").strip  # replace bad negative signs and spaces ('THIN SPACE!!!')
     end
 
     def check_if_unknown
@@ -97,7 +83,7 @@ module Hippocampome
     #end
 
     def parse_statement
-      #binding.pry if @statement.include?('(16)')
+      #binding.pry if @statement.include?('9151716 {Table 4')
       extract_pmid_isbn
       remove_whitespace
       #binding.pry
@@ -110,7 +96,7 @@ module Hippocampome
       extract_at
       remove_whitespace
       #binding.pry
-      extract_table_figure_quote_and_number
+      extract_location
       #binding.pry
     #rescue StandardError => e
       #binding.pry
@@ -140,20 +126,14 @@ module Hippocampome
     end
 
     def extract_at
-      @at = @statement.slice!(/@[@\-\d\.]+$/)
+      @at = @statement.slice!(/@[\sXY@\-\d\.]+$/)
     end
 
-    def extract_table_figure_quote_and_number
-      @table_figure_quote, @number = @statement.split(';')
-      @table_figure_quote.strip!
+    def extract_location
+      @location, @number = @statement.split(';')
+      @location.strip!
       @number.strip!
     end
-
-    #def parse_statement
-      #match = @statement.match(self.class.regex) 
-      #raise CSVPort::InvalidRecordError.new(:type => :badly_formatted_field, raw_content: @statement) unless match
-      #@pmid_isbn, @table_figure_quote, @number, @n, @at = *match.values_at(1,2,3,5,6)
-    #end
 
     def validate_pmid_isbn
       if not Article[{pmid_isbn: @pmid_isbn}]
@@ -208,9 +188,9 @@ module Hippocampome
     end
 
     def parse_at
-      @istim, @time = *@at.scan(/@-?[X\d]+/).map{|m| m.delete('@')}
-      @istim = "unknown" if @istim == "X"
-      @time = "unknown" if @time == "X"
+      @istim, @time = *@at.scan(/@-?[\sXY\d]+/).map{|m| m.delete('@ ')}
+      @istim = "unknown" if ['X', 'Y'].include?(@istim)
+      @time = "unknown" if ['X', 'Y'].include?(@time)
     end
 
     def create_property

@@ -1,3 +1,5 @@
+require 'biblimatch'
+
 module Hippocampome
 
   class MorphFragmentRowProcessor
@@ -22,7 +24,17 @@ module Hippocampome
     def extract_page_number
       #binding.pry
       page = Processors.extract_page_number(@page_location)
-      @first_page = (page == "unspecified" ? ArticleMatcher.new(@pmid_isbn, page).match.first_page : nil)
+      if page == "unspecified"
+        values = {
+          pmid_isbn: @pmid_isbn,
+          page: page
+        }
+        @first_page = Biblimatch::Matcher.new(values, :hippocampome, source_database: :hippocampome).match[:first_page]
+      else
+        @first_page = nil
+      end
+    rescue Biblimatch::NoMatchError
+      raise CSVPort::InvalidRecordError.new(type: :missing_article, pmid_isbn: @pmid_isbn)
     end
 
   end
