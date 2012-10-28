@@ -16198,47 +16198,5 @@
     "row": 274,
     "field": "type_id",
     "file": "hc_main.csv"
-  },
-  {
-    "type": "missing_type_reference",
-    "value": "5-000",
-    "row": 81,
-    "field": "type_id",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "missing_type_reference",
-    "value": "6-080**",
-    "row": 91,
-    "field": "type_id",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "missing_type_reference",
-    "value": "6-081",
-    "row": 92,
-    "field": "type_id",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "missing_type_reference",
-    "value": "5-000",
-    "row": 81,
-    "field": "type_id",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "missing_type_reference",
-    "value": "6-080**",
-    "row": 91,
-    "field": "type_id",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "missing_type_reference",
-    "value": "6-081",
-    "row": 92,
-    "field": "type_id",
-    "file": "epdata.csv"
   }
 ]

@@ -35,7 +35,7 @@ module Hippocampome
 
     def get_fragment
       values = {
-        quote: @record.table_figure_quote
+        quote: @record.location
       }
       matching_fragment = FragmentMatcher.new(@record.pmid_isbn, values, return_model: true).match
       if matching_fragment
@@ -59,7 +59,9 @@ module Hippocampome
         std_sem: @record.std_sem,
         n: @record.n,
         istim: @record.istim,
-        time: @record.time
+        time: @record.time,
+        unit: @record.unit,
+        location: @record.location
       }
       @epdata = Epdata.new(values)
     end
