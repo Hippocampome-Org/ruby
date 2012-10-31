@@ -18,6 +18,8 @@ module Hippocampome
     end
 
     def load
+      patch_pmid_isbn
+      patch_page_number
       get_article
       get_authors
       load_article
@@ -28,6 +30,16 @@ module Hippocampome
         load_type_mapping  # load synonyms, link synonyms to types and article
       end
       return @article
+    end
+
+    def patch_pmid_isbn
+      @record.fields[:pmid_isbn] = Processors.clean_id_number(@record.pmid_isbn)
+    end
+
+    def patch_page_number
+      if @record.first_page and @record.first_page[0] == 'e'  # don't accept electronic page nums
+        @record.fields[:first_page] = nil
+      end
     end
 
     def load_article

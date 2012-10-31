@@ -14994,43 +14994,8 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "20080772",
-    "row": 17,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "8261117_@",
     "row": 20,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "19232379",
-    "row": 21,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "11353016",
-    "row": 21,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "2357533",
-    "row": 21,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "16584711",
-    "row": 21,
     "field": "statement",
     "file": "epdata.csv"
   },
@@ -15119,14 +15084,6 @@
     "file": "epdata.csv"
   },
   {
-    "type": "badly_formatted_field",
-    "raw_content": "Cm= 150.1 ± 26.1(pF)",
-    "type_id": null,
-    "row": 21,
-    "field": "tm",
-    "file": "epdata.csv"
-  },
-  {
     "type": "not_yet_extracted",
     "raw_content": "8283200_@",
     "row": 22,
@@ -15170,14 +15127,7 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "19496174",
-    "row": 25,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "15486016  _@",
+    "raw_content": "15486016 _@",
     "row": 26,
     "field": "statement",
     "file": "epdata.csv"
@@ -15198,20 +15148,6 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "15486016_@ (Fig.3C)",
-    "row": 30,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "15486016_@ (Fig.3A)",
-    "row": 30,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "19339618_@",
     "row": 33,
     "field": "statement",
@@ -15220,56 +15156,7 @@
   {
     "type": "not_yet_extracted",
     "raw_content": "19339618_@",
-    "row": 33,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "14734812_@",
     "row": 34,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "14734812_@",
-    "row": 34,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "14734812_@",
-    "row": 34,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "19339618_@",
-    "row": 34,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "14734812_@",
-    "row": 34,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "14734812_@",
-    "row": 34,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "9300769",
-    "row": 35,
     "field": "statement",
     "file": "epdata.csv"
   },
@@ -15289,21 +15176,7 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "9300769_@",
-    "row": 35,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "9300769",
-    "row": 35,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "9300769_@ (Fig.5C, p.435)",
     "row": 35,
     "field": "statement",
     "file": "epdata.csv"
@@ -15380,20 +15253,6 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "9300769",
-    "row": 36,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "10655521_@",
-    "row": 38,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "15486016_@ (Fig.3A)",
     "row": 41,
     "field": "statement",
@@ -15415,20 +15274,6 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "11067982",
-    "row": 48,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "20421280",
-    "row": 48,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "20421280",
     "row": 48,
     "field": "statement",
@@ -15445,13 +15290,6 @@
     "type": "not_yet_extracted",
     "raw_content": "11067982",
     "row": 48,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "17185334_@",
-    "row": 49,
     "field": "statement",
     "file": "epdata.csv"
   },
@@ -15506,20 +15344,6 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "7931512",
-    "row": 52,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "18184315",
-    "row": 52,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "18184315",
     "row": 52,
     "field": "statement",
@@ -15542,35 +15366,7 @@
   {
     "type": "not_yet_extracted",
     "raw_content": "21795545_@",
-    "row": 53,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "badly_formatted_field",
-    "raw_content": "16033887 {p.6779, bottom lef; -63.1 + 5.6(33)}",
-    "row": 55,
-    "field": "Vrest",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "21795545_@",
     "row": 56,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "badly_formatted_field",
-    "raw_content": "16033887 {p.6779, bottom lef; -63.1 + 5.6(33)}",
-    "row": 56,
-    "field": "Vrest",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "21795545_@",
-    "row": 57,
     "field": "statement",
     "file": "epdata.csv"
   },
@@ -15578,41 +15374,6 @@
     "type": "not_yet_extracted",
     "raw_content": "19741117",
     "row": 57,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "11807843_@",
-    "row": 58,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "11807843_@",
-    "row": 58,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "11807843_@",
-    "row": 58,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "11807843_@",
-    "row": 58,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "3612227_@",
-    "row": 60,
     "field": "statement",
     "file": "epdata.csv"
   },
@@ -15702,20 +15463,6 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "7472426_@",
-    "row": 73,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "18367092(Fig.6b)_@",
-    "row": 73,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "11807843_@",
     "row": 75,
     "field": "statement",
@@ -15739,34 +15486,6 @@
     "type": "not_yet_extracted",
     "raw_content": "11807843_@",
     "row": 75,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "11807843_@",
-    "row": 75,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "21795545_@",
-    "row": 76,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "21795545_@",
-    "row": 79,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "21795545_@",
-    "row": 79,
     "field": "statement",
     "file": "epdata.csv"
   },
@@ -15787,13 +15506,6 @@
   {
     "type": "not_yet_extracted",
     "raw_content": "11807843_@",
-    "row": 80,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "21795545_@",
     "row": 80,
     "field": "statement",
     "file": "epdata.csv"
@@ -15844,34 +15556,6 @@
     "type": "not_yet_extracted",
     "raw_content": "1_@",
     "row": 86,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "1_@",
-    "row": 86,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "16127693_@",
-    "row": 90,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "16127693_@",
-    "row": 90,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "12209840",
-    "row": 95,
     "field": "statement",
     "file": "epdata.csv"
   },
@@ -15961,20 +15645,6 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "1_@",
-    "row": 102,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "1_@",
-    "row": 102,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "2_@",
     "row": 102,
     "field": "statement",
@@ -16024,34 +15694,6 @@
   },
   {
     "type": "not_yet_extracted",
-    "raw_content": "9070741_@",
-    "row": 104,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "9070741_@",
-    "row": 104,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "16641241_@",
-    "row": 105,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "16641241_@",
-    "row": 105,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
     "raw_content": "8469376_@",
     "row": 106,
     "field": "statement",
@@ -16061,20 +15703,6 @@
     "type": "not_yet_extracted",
     "raw_content": "8469376_@",
     "row": 106,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "16641241_@",
-    "row": 107,
-    "field": "statement",
-    "file": "epdata.csv"
-  },
-  {
-    "type": "not_yet_extracted",
-    "raw_content": "16641241_@",
-    "row": 107,
     "field": "statement",
     "file": "epdata.csv"
   },

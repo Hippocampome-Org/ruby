@@ -19,6 +19,8 @@ module Hippocampome
       if mysql2_exception.error_number == 1062  # duplicate primary key error
         raise DuplicateFragmentError.new("Fragment #{fragment.id} already present!", fragment)
       end
+    rescue StandardError => e
+      binding.pry
     end
 
     def load_and_link_fragments_and_evidence

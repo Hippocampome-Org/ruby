@@ -19,6 +19,7 @@ CREATE TABLE Article (
   title VARCHAR(512),
   publication VARCHAR(128),
   volume VARCHAR(15),
+  issue VARCHAR(15),
   first_page INT,
   last_page INT,
   year VARCHAR(15),
@@ -185,6 +186,7 @@ CREATE TABLE FragmentTypeRel (
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   Fragment_id INT,
   Type_id INT,
+  priority TINYINT,
   FOREIGN KEY (Fragment_id) REFERENCES Fragment(id),
   FOREIGN KEY (Type_id) REFERENCES Type(id)
 );
@@ -196,4 +198,15 @@ CREATE TABLE SynonymTypeRel (
   Type_id INT,
   FOREIGN KEY (Synonym_id) REFERENCES Synonym(id),
   FOREIGN KEY (Type_id) REFERENCES Type(id)
+);
+
+CREATE TABLE TypeTypeRel (
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  Type1_id INT,
+  Type2_id INT,
+  connection_status ENUM('positive', 'negative'),
+  connection_location VARCHAR(16),
+  FOREIGN KEY (Type1_id) REFERENCES Type(id),
+  FOREIGN KEY (Type2_id) REFERENCES Type(id),
 );

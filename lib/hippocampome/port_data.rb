@@ -42,6 +42,7 @@ module Hippocampome
         'authors'=>:authors,
         'publication'=>:publication, 
         'volume'=>:volume,
+        'issue'=>:issue,
         'pmid_isbn'=>:pmid_isbn,
         'pmcid'=>:pmcid,
         'nihmsid'=>:nihmsid,
@@ -169,7 +170,8 @@ module Hippocampome
         'Cell Identifier' => :type_id,
         'Name of file containing figure' => :filename,
         'Quote reference id' => :ref_id,
-        'Figure/Table' => :figure_table
+        'Figure/Table' => :figure_table,
+        'Representative?' => :priority
       },
       required_fields: [
         :pmid_isbn,

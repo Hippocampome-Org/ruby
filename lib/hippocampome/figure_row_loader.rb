@@ -23,9 +23,10 @@ module Hippocampome
     end
 
     def link_fragments_to_types
+      priority = @record.priority
       @fragments.each do |fragment|
         @types.each do |type|
-          link(fragment, type)  # there are the same number of evidence and fragments
+          link(fragment, type, priority: priority)  # there are the same number of evidence and fragments
         end
       end
     end

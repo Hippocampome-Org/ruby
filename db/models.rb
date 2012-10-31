@@ -80,6 +80,18 @@ class Type < Sequel::Model(DB[:Type])
 
   unrestrict_primary_key
 
+  def soma_properties
+    Property.filter(Type: self, subject: 'somata', predicate: 'in')
+  end
+
+  def axon_properties
+    Property.filter(Type: self, subject: 'axons', predicate: 'in')
+  end
+
+  def dendrite_properties
+    Property.filter(Type: self, subject: 'dendrites', predicate: 'in')
+  end
+
   def to_s
     nickname
   end
