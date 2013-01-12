@@ -30,7 +30,9 @@ module Hippocampome
     def patch
       Type.each do |type|
         self.class.morph_parts.each do |morph_part|
+          puts "Patching " + (type.nickname or type.name) + "..."
           OneTypeMorphPropertyPatcher.new(type, morph_part).patch
+          puts "patched"
         end
       end
     end

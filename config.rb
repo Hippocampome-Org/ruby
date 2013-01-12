@@ -73,3 +73,4 @@ EXTERNAL_SOURCE_DATA_DIRECTORY = "/Users/seanmackesey/google_drive/hc/data"
 SOURCE_DATA_DIRECTORY = File.expand_path('source', DATA_DIRECTORY)
 HELPER_DATA_DIRECTORY = File.expand_path('helper', DATA_DIRECTORY)
 ERROR_DATA_DIRECTORY = DATA_DIRECTORY
+HIPPOCAMPOME_DIRECTORY = "/Users/seanmackesey/Desktop/hippocampome"

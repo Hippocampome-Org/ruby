@@ -85,7 +85,12 @@ class Type < Sequel::Model(DB[:Type])
   unrestrict_primary_key
 
   parcels = ['DG', 'CA3', 'CA2', 'CA1', 'SUB', 'EC']
+
   @excluded_morph_objects = { object: ["hippocampal formation", *parcels] }
+
+  class << self
+    attr_accessor :excluded_morph_objects
+  end
 
   def EvidenceIndirect
     ev = self.EvidenceDirect.map do |evidence|
@@ -100,16 +105,16 @@ class Type < Sequel::Model(DB[:Type])
   end
 
   def soma_properties
-    binding.pry
-    Property.filter(Type: self, subject: 'somata', predicate: 'in').exclude(@excluded_morph_objects)
+    #binding.pry
+    Property.filter(Type: self, subject: 'somata', predicate: 'in').exclude(self.class.excluded_morph_objects)
   end
 
   def axon_properties
-    Property.filter(Type: self, subject: 'axons', predicate: 'in').exclude(@excluded_morph_objects)
+    Property.filter(Type: self, subject: 'axons', predicate: 'in').exclude(self.class.excluded_morph_objects)
   end
 
   def dendrite_properties
-    Property.filter(Type: self, subject: 'dendrites', predicate: 'in').exclude(@excluded_morph_objects)
+    Property.filter(Type: self, subject: 'dendrites', predicate: 'in').exclude(self.class.excluded_morph_objects)
   end
 
   def morph_properties
