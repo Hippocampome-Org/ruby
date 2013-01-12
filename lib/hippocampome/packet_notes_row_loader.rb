@@ -16,8 +16,12 @@ module Hippocampome
     end
 
     def get_note_content
-      path = File.expand_path(@record.filename, @auxilary_data_path)
-      @note_content = File.read(path)
+      if @record.filename
+        path = File.expand_path(@record.filename, @auxilary_data_path)
+        @note_content = File.read(path)
+      else
+        @note_content = nil
+      end
     end
 
     def get_type

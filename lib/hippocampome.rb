@@ -22,6 +22,16 @@ require 'hippocampome/soma_statement_processor'
 require 'hippocampome/type_mapping_processor'
 require 'hippocampome/type_row_loader'
 require 'hippocampome/epdata_record_validator'
+require 'hippocampome/marker_evidence_link_row_processor'
+require 'hippocampome/marker_evidence_link_statement_processor'
+require 'hippocampome/marker_evidence_link_statement_loader'
+require 'hippocampome/type_matcher'
+require 'hippocampome/known_connections_row_loader'
+require 'hippocampome/known_connections_row_processor'
+require 'hippocampome/morph_property_patcher'
+require 'hippocampome/one_type_morph_property_patcher'
+
+require 'extensions/string'
 
 module Hippocampome
 

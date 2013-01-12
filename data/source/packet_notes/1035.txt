@@ -1,15 +1,5 @@
-Status: Active
-
-
-Merger status:
-Merger of DG (-)2232 basket cells (BC) and DG (-)2030 basket cells (BC).
-
-Cross-references:
-none.
-
-Notes:
 Contact proximal dendritic shafts of apical dendrites and somata of interneurons and GCs.
-
+<p>
 Perisomatic targeting interpreted as SG.
-
+<p>
 Extended interpretation of SG in apical and basal directions.

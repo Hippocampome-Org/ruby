@@ -31,11 +31,14 @@ module Hippocampome
       else
         link_dummy_evidence_to_property_to_type
       end
+    rescue StandardError => e
+      binding.pry
     end
 
     def get_fragment
       values = {
-        quote: @record.location
+        quote: @record.location,
+        page_location: @record.location
       }
       matching_fragment = FragmentMatcher.new(@record.pmid_isbn, values, return_model: true).match
       if matching_fragment
@@ -118,6 +121,13 @@ module Hippocampome
 
     def get_property
       @property = Property.new(@record.property)
+    end
+
+    def get_secondary_article
+      values = {
+        pmid_isbn: @record.linking_pmid
+      }
+      @secondary_article = Article.new(values)
     end
 
     def load_property

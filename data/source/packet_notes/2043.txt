@@ -1,14 +1,5 @@
-Status: active
-
-Merger status:
-    Merger with CA3 22223 axo-axonic cells REVOKED due to the issue of
-         target specificity.  Axo-axonic cells exclusively target 
-         pyramidal cells while basket cells are known to also target
-         other interneurons.
-
-Notes:
-Hippocampome rules enacted:
-- Rule 4, Section 3, Subsection ii, Clause 3 - perisomatic axonal targeting interpreted as PCL
-- Rule 4, Section 3, Subsection iii, Clause 1 - extended interpretation of SP in apical and basal directions
-
-Original evidence added (Gulyas et al., 1993)
+Axo-axonic cells exclusively target pyramidal cells while basket cells are known to also target other interneurons.
+<p>
+perisomatic axonal targeting interpreted as PCL
+<p>
+extended interpretation of SP in apical and basal directions

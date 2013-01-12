@@ -1,5 +1,6 @@
 DROP DATABASE IF EXISTS hippocampome;
 
+
 CREATE DATABASE hippocampome
   DEFAULT CHARACTER SET utf8
   DEFAULT COLLATE utf8_general_ci;
@@ -36,11 +37,11 @@ CREATE TABLE Epdata (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   raw VARCHAR(162),
-  value1 VARCHAR(32),
-  value2 VARCHAR(32),
-  error VARCHAR(32),
+  value1 FLOAT,
+  value2 FLOAT,
+  error FLOAT,
   std_sem ENUM('std', 'sem'),
-  n VARCHAR(32),
+  n FLOAT,
   istim VARCHAR(32),
   time VARCHAR(32),
   unit VARCHAR(8),
@@ -89,6 +90,7 @@ CREATE TABLE Type (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   position INT,
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  subregion VARCHAR(8),
   name VARCHAR(255),
   nickname VARCHAR(64),
   status ENUM('active', 'frozen'),
@@ -165,10 +167,13 @@ CREATE TABLE EvidencePropertyTypeRel (
   Evidence_id INT,
   Property_id INT,
   Type_id INT,
+  Article_id INT,
   priority INT DEFAULT NULL,
+  conflict_note VARCHAR(64),
   FOREIGN KEY (Evidence_id) REFERENCES Evidence(id),
   FOREIGN KEY (Property_id) REFERENCES Property(id),
   FOREIGN KEY (Type_id) REFERENCES Type(id),
+  FOREIGN KEY (Article_id) REFERENCES Article(id),
   unvetted TINYINT(1)
 );
 
@@ -208,5 +213,5 @@ CREATE TABLE TypeTypeRel (
   connection_status ENUM('positive', 'negative'),
   connection_location VARCHAR(16),
   FOREIGN KEY (Type1_id) REFERENCES Type(id),
-  FOREIGN KEY (Type2_id) REFERENCES Type(id),
+  FOREIGN KEY (Type2_id) REFERENCES Type(id)
 );

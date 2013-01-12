@@ -70,7 +70,59 @@ CREATE VIEW article_with_evidence as
 
 CREATE VIEW article_with_fragment as
 (
-  SELECT awe.Article_id, awe.title, awe.year, ewf.*
+  SELECT awe.Article_id, awe.pmid_isbn, awe.first_page, awe.title, awe.year, ewf.*
   FROM article_with_evidence awe
   JOIN evidence_with_fragment ewf ON awe.Evidence_id = ewf.Evidence_id
+);
+
+CREATE VIEW property_with_type_linked_sub AS
+(
+  SELECT DISTINCT t.name, t.nickname, p.subject, p.predicate, p.object, eptr.Type_id, eptr.Property_id, eptr.Evidence_id as Evidence1_id, Evidence2_id, a.pmid_isbn as secondary_pmid
+  FROM EvidencePropertyTypeRel eptr
+  JOIN (Property p, Type t, Article a, EvidenceEvidenceRel eer) ON (eptr.Property_id = p.id AND eptr.Type_id = t.id AND eptr.Article_id = a.id AND eptr.Evidence_id = eer.Evidence1_id)
+);
+
+CREATE VIEW property_with_type_linked as
+(
+  SELECT pwtls.*, awe.pmid_isbn as primary_pmid, ewf.quote, ewf.original_id, ewf.Fragment_id as Fragment_id
+  FROM property_with_type_linked_sub pwtls
+  JOIN article_with_evidence awe ON (Evidence2_id = awe.Evidence_id)
+  JOIN evidence_with_fragment ewf ON (ewf.Evidence_id = Evidence2_id)
+);
+
+CREATE VIEW property_with_type_and_evidence AS
+(
+  SELECT  t.name, t.nickname, p.subject, p.predicate, p.object, eptr.Type_id, eptr.Property_id, eptr.Evidence_id
+  FROM EvidencePropertyTypeRel eptr
+  JOIN (Property p, Type t) ON (eptr.Property_id = p.id AND eptr.Type_id = t.id)
+);
+
+CREATE VIEW epdata_with_type as
+(
+  SELECT *
+  FROM property_with_type_and_evidence pwtae
+  JOIN evidence_with_epdata ewe USING (Evidence_id)
+);
+
+
+CREATE VIEW markerdata_with_type as
+(
+  SELECT *
+  FROM property_with_type_and_evidence pwtae
+  JOIN evidence_with_markerdata ewe USING (Evidence_id)
+);
+
+CREATE VIEW property_with_type_and_fragment as
+(
+  SELECT *
+  FROM property_with_type_and_evidence pwtae
+  JOIN article_with_fragment awf USING(Evidence_id) 
+);
+
+CREATE VIEW property_with_type_and_fragment_marker as
+(
+  SELECT pwtae.*, awf.quote, awf.original_id, awf.pmid_isbn, awf.title
+  FROM property_with_type_and_evidence pwtae
+  JOIN evidenceevidencerel eer ON eer.Evidence1_id = pwtae.Evidence_id
+  JOIN article_with_fragment awf ON eer.Evidence2_id = awf.Evidence_id
 );

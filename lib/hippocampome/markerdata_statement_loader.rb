@@ -9,11 +9,11 @@ module Hippocampome
     end
 
     def load
-      get_vet_data
+      get_property_type_link_annotation
       get_type
       get_properties
       load_properties
-      if has_fragment?
+      if not unknown? and has_fragment?
         get_fragment
         get_fragment_evidence
         get_markerdata
@@ -30,11 +30,16 @@ module Hippocampome
 
     def has_fragment?
       if not Fragment[{original_id: @record.ref_id}]
-        CSVPort::InvalidRecordError.new(:type => :missing_fragment_reference, :loaded_anyway => :yes).log
+        CSVPort::InvalidRecordError.new(:type => :missing_fragment_reference, :loaded_anyway => :yes, :referenc => @record.ref_id).log
+        #binding.pry
         return false
       else
         return true
       end
+    end
+
+    def unknown?
+      @record.expression.include? "unknown"
     end
 
     def get_type
@@ -57,13 +62,14 @@ module Hippocampome
 
     def get_fragment
       values = {
-        original_id: @record.ref_id
+        original_id: @record.ref_id,
+        type: 'data'
       }
       @fragment = Fragment.new(values)
     end
 
     def get_fragment_evidence
-        @fragment_evidence = match(@fragment).Evidence.first
+      @fragment_evidence = match(@fragment).Evidence.first
     end
 
     def get_markerdata
@@ -101,14 +107,14 @@ module Hippocampome
 
     def link_markerdata_evidence_to_property_to_type
       @properties.each do |property|
-        link(@markerdata_evidence, property, @type, @vet_data)
+        link(@markerdata_evidence, property, @type, @annotation)
       end
     end
 
     def link_dummy_evidence_to_property_to_type
       #binding.pry if $row == 21
       @properties.each do |property|
-        link(DUMMY_EVIDENCE, property, @type, @vet_data)
+        link(DUMMY_EVIDENCE, property, @type, @annotation)
       end
     end
 
@@ -117,8 +123,11 @@ module Hippocampome
       #raise HippoDataError.new(:missing_type_reference, type_id: @type_id) if not Type[@type_id]
     #end
 
-    def get_vet_data
-      @vet_data = {unvetted: @record.unvetted}
+    def get_property_type_link_annotation
+      @annotation = {
+        unvetted: @record.unvetted,
+        conflict_note: @record.conflict_note
+      }
     end
 
   end

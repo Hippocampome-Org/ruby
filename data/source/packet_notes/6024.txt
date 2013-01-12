@@ -1,7 +1,1 @@
-Status: Approved 
-
-Merger status: None being considered
-   
-Notes:  Borderline
-        Axons in LI and LV
-        Dend in L1
+Borderline Axons in LI and LV & Dend in L1

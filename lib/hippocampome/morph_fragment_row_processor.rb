@@ -13,12 +13,17 @@ module Hippocampome
     def process
       unpack_fields
       clean_pmid_isbn
+      clean_page_location
       extract_page_number
       export_record
     end
 
     def clean_pmid_isbn
       @pmid_isbn = Processors.clean_id_number(@pmid_isbn)
+    end
+
+    def clean_page_location
+      @page_location = Processors.clean_page_location(@page_location)
     end
 
     def extract_page_number

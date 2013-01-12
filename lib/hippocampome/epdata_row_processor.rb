@@ -25,7 +25,7 @@ module Hippocampome
 
     def initialize(record)
       @record = record
-      non_epdata = [:type_id, :ref_id, :notes, :row_number]
+      non_epdata = [:type_id, :ref_id, :notes, :row_number, :linking_pmid]
       @epdata_fields = @record.fields.reject do |field, value|
         non_epdata.include?(field) 
       end
@@ -36,53 +36,37 @@ module Hippocampome
     end
 
     def process
-      type_id = Processors.clean_id_number(@record.type_id)
-      record_list = @epdata_fields.map do |ep_property_name, array|
-        array.map do |statement|
-          hash = {
-            ep_property_name: ep_property_name,
-            type_id: type_id,
-            unit: self.class.unit_hash[ep_property_name],
-            statement: statement,
-          }
-          CSVPort::Record.new(hash)
+      @type_id = Processors.clean_id_number(@record.type_id)
+      record_list = @epdata_fields.map do |ep_property_name, statement_list|
+        if unknown?(statement_list)  # all unknowns
+          [] << create_statement_record(ep_property_name, "$UNKNOWN")  # replace with unknown code
+        else
+          statement_list.reject! { |statement| not_found?(statement) }
+          statement_list.map { |statement| create_statement_record(ep_property_name, statement) }
         end
       end
       record_list.flatten
     end
 
-        #statement = process_epdata_field(statement)
+    def unknown?(statement_list)  # only if all statements are not found
+      not_found_tests = statement_list.map { |sl| not_found?(sl) }
+      not_found_tests.all? ? true : false
+    end
 
-        #if not statement
-          #return nil
-        #else
-          #object = (statement == :no_data ? 'unknown' : '[-inf, +inf]')
-          #property = create_property(ep_property_name, object)
-          #OpenStruct.new(statement.update( {property: property, type_id: @record.unique_id} ))
-        #end
-      #end
-      #records.compact
-    #end
+    def not_found?(statement)
+      statement.match(/^\s*\$/) ? true : false
+    end
 
-    #def process_statement(statement)
-      #if statement.nil? or statement.match(/\{[.…]+\}/)
-        #return nil
-      #elsif statement.include?('$')
-        #return :no_data
-      #elsif not statement.include?('{')
-        #return nil
-      #else
-        #return EpdataStatementProcessor.new(statement).process(statement)
-      #end
-    #end
-
-    #def create_property(property_name)
-      #{
-        #subject: property_name,
-        #predicate: 'is between',
-        #object: (@unknown ? 'unknown' : '[-inf, +inf]')
-      #}
-    #end
+    def create_statement_record(ep_property_name, statement)
+      values = {
+        ep_property_name: ep_property_name,
+        type_id: @type_id,
+        linking_pmid: @record.fields[:linking_pmid],
+        unit: self.class.unit_hash[ep_property_name],
+        statement: statement,
+      }
+      CSVPort::Record.new(values)
+    end
 
   end
 

@@ -50,6 +50,14 @@ SOURCE_DATA = [
     filename: 'hc_main.csv',
     target: :hc_main
   },
+  {
+    filename: 'marker_fragment.csv',
+    target: :marker_evidence_links
+  },
+  {
+    filename: 'known_connections.csv',
+    target: :known_connections
+  },
 ]
 
 HELPER_DATA = [

@@ -17,11 +17,16 @@ default_pmid_filepath = "/Users/seanmackesey/Desktop/pmids.txt"
 article_filepath = Readline.readline("Enter path to article file (press return for default): ")
 article_filepath = default_article_filepath if article_filepath.empty?
 article_table = CSV.read(article_filepath, headers: true, header_converters: :symbol)
-source_ids = Article.map(:pmid_isbn)
+#source_ids = Article.map(:pmid_isbn)
+source_ids = article_table[:pmid_isbn].uniq
 
 pmid_filepath = Readline.readline("Enter path to source id file: ")
 pmid_filepath = default_pmid_filepath if pmid_filepath.empty?
-sources_to_add = File.readlines(pmid_filepath).map{|li| li.chomp.to_i}.compact
+sources_to_add = File.readlines(pmid_filepath).map{|li| li.chomp}.compact
+
+add_to_db = Readline.readline("Add to DB (y/n)? ")
+add_to_db = (add_to_db == 'y' ? true : false)
+sources_to_add_db = sources_to_add.dup
 
 puts "BEFORE: "
 sources_to_add.each do |source| puts source end
@@ -29,10 +34,10 @@ puts
 sources_to_add.reject!{|s| source_ids.include?(s)}
 puts "AFTER: "
 sources_to_add.each do |source| puts source end
+
 if sources_to_add.any?
   sources_to_add.each do |pmid|
     hash = Biblimatch::Matcher.new({PMID: pmid}, :pubmed, output_database: :hippocampome).match
-    binding.pry
     row_values = article_table.headers.map do |header|
       (hash[header] or nil)
     end
@@ -43,7 +48,16 @@ if sources_to_add.any?
 else
   puts "No new sources!"
 end
-
-
-
-
+binding.pry
+sources_to_add_db.reject! { |source| Article[pmid_isbn: source.to_i] }
+if sources_to_add_db.any?
+  sources_to_add_db.each do |pmid|
+    hash = Biblimatch::Matcher.new({PMID: pmid}, :pubmed, output_database: :hippocampome).match
+    authors = hash.delete(:authors).split(', ')
+    article = Article.create(hash)
+    authors.each_with_index do |au, i|
+      author = (Author[name: au] or Author.create(name: au))
+      ArticleAuthorRel.create(Article_id: article.id, Author_id: author.id, author_pos: i)
+    end
+  end
+end

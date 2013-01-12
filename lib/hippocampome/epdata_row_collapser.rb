@@ -39,6 +39,7 @@ module Hippocampome
           nil
         end
       end
+      @records
     end
 
   end

@@ -25,8 +25,8 @@ unique ID,Subregion,Axonal-dendritic pattern,p,Projection patterning,Hippocampom
 2008,CA3,12000,,,R-LM,2008.txt
 2009,CA3,11003,,,O-LM,
 2042,CA3,3333,p,DG_0003,IS-3,2042.txt
-2045,CA3,3333,,,BiC,2045.txt
-2046,CA3,3333,,,ivy,2045.txt
+2045,CA3,3333,,,BiC,
+2046,CA3,3333,,,ivy,
 2036,CA3,3330,p,DG 0001,MFA-1,2036.txt
 2013,CA3,3311,,,LC-1,2013.txt
 2014,CA3,3300,,,LC-2,2014.txt
@@ -40,7 +40,7 @@ unique ID,Subregion,Axonal-dendritic pattern,p,Projection patterning,Hippocampom
 3000,CA2,2333,p,DG 0001-CA3 01011-CA1 0111,pyramidal,
 3007,CA2,2232,p,CA3_00030-CA1_0030,basket,3007.txt
 3006,CA2,2232,,,basket,3006.txt
-3003,CA2,313,p,CA1 _0101,BiC,3003.txt
+3003,CA2,313,p,CA1 _0101,BiC,
 4000,CA1,2223,p,SUB 111-EC 000011,pyramidal,4000.txt
 4054,CA1,2201,,,PLP-RGC,4054.txt
 4003,CA1,3333,,,QuadC,
@@ -58,15 +58,15 @@ unique ID,Subregion,Axonal-dendritic pattern,p,Projection patterning,Hippocampom
 4079,CA1,2232,,,BC CCK,
 4036,CA1,2232,,,AA,4036.txt
 4020,CA1,2223,,,quad IS-3,4020.txt
-4021,CA1,2100,,,IS-2,4021.txt
+4021,CA1,2100,,,IS-2,
 4022,CA1,2003,,,IS-3,
 4061,CA1,1300,,,SLM-SR,4061.txt
 4066,CA1,1202,,,PR-LM,4066.txt
 4023,CA1,1133,p,CA3_11101-DG_0001,BP,
 4068,CA1,1113,p,SUB_111,O-BiC,4068.txt
 4069,CA1,1002,,,O-LM,4069.txt
-4080,CA1,333,,,BiC,4080.txt
-4081,CA1,333,,,ivy,4080.txt
+4080,CA1,333,,,BiC,
+4081,CA1,333,,,ivy,
 4041,CA1,313,p,SUB_001,ENK,4041.txt
 4028,CA1,300,,,SCA-SR-CB,4028.txt
 4035,CA1,113,p,SUB_111,TH-ORP-DP-OR,4035.txt
@@ -87,7 +87,7 @@ unique ID,Subregion,Axonal-dendritic pattern,p,Projection patterning,Hippocampom
 6094,EC,231000,,,FOMP,6094.txt
 6095,EC,223331,,,HOBIPPY,6095.txt
 6092,EC,223200,p,CA1_1000-SUB_100,PC III,6092.txt
-6017,EC,223111,p,CA1_1000-SUB_100,PC III sm,6017.txt
+6017,EC,223111,p,CA1_1000-SUB_100,PC III sm,
 6018,EC,223000,,,SC III,6018.txt
 6019,EC,221100,,,OPC-SC II,6019.txt
 6085,EC,220233,p,DG_1000,PC V-DG,6085.txt

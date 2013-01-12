@@ -1,16 +1,3 @@
-Status:
-Active.
-
-Merger status:
-No current merger proposals.
-
-Cross-references:
-CA2 (-)2232p-CA3 00030-CA1 0030 basket cells (BC)
-
-CA1 (-)2232 basket cells (BC)
-
-Notes: Mercer (2012) has been added.
-
 The cells from Mercer 2007, formerly 2233 basket cells, have been reinterpreted so proximal SO and SR are considered to be extensions of SP.
-
+<p>
 Mercer (2012): dendrites putatively contact pyramidal somata or proximal dendrites

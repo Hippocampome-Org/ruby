@@ -14,6 +14,7 @@ main do
     path = File.expand_path('..', '__FILE__')
     builder = CSVPort::Builder.new(path, options)
     builder.build
+    patch
   rescue StandardError => e
     binding.pry
   end
@@ -25,5 +26,9 @@ on("-u", "--update_source_files", "Update the source data")
 on("-v", "--add_views", "Add database views")
 
 description "Builds the database from source files"
+
+def patch
+  Hippocampome::MorphPropertyPatcher.new.patch
+end
 
 go!

@@ -58,6 +58,7 @@ module Hippocampome
     def validate_string
       tests = [] << @statement.match(/^[\d]+\.\d+\?*$/) 
       tests << (not @statement.empty?)
+      #binding.pry unless tests.all?
       raise CSVPort::InvalidRecordError.new(type: :badly_formatted_field, value: @statement) unless tests.all?
     end
 

@@ -41,33 +41,15 @@ module Hippocampome
         binding.pry if @statement == "17185334_@"
         parse_statement
         validate_pmid_isbn
+        clean_page_location
         parse_number
         remove_alphabetic_chars_from_values
-        validate_values
+        validate_numbers
         parse_at if @at
       end
       create_property
-      #binding.pry
       export_record
     end
-
-    #def process_statement
-      #binding.pry
-        #parse_statement
-        #validate_pmid_isbn
-        #parse_number
-        #remove_alphabetic_chars_from_values
-        #validate_values
-        #parse_at if @at
-    #rescue InvalidRecordError => e
-      #raw_pmid = /^@_\d+$/
-      #misc = /^X_@$/
-      #if not @raw.match(raw_pmid) and (not @raw.match(misc))
-        #e.log
-      #else
-        #raise e
-      #end
-    #end
 
     def clean_statement
       @statement = @statement.gsub('−', '-').gsub(' ', ' ').gsub('ą', '±').delete("\rÂ_").strip  # replace bad negative signs and spaces ('THIN SPACE!!!')
@@ -75,6 +57,10 @@ module Hippocampome
 
     def check_if_unknown
       @unknown = (@statement.match(/^\s*\$/) ? true : false)
+    end
+
+    def clean_page_location
+      Processors.clean_page_location(@location)
     end
 
     #def check_if_not_yet_extracted
@@ -163,20 +149,25 @@ module Hippocampome
 
 
     def extract_range_values
-      @value1, @value2 = @number.split(/\s*[,-]\s*/)
-      @value1.strip!
-      @value2.strip!
+      @value1, @value2 = @number.scan(/-?[\d\.]+/)
+      strip_number(@value1)
+      strip_number(@value2)
     end
 
     def extract_value_and_error
       @value1, @error = @number.split(/\s*[q±]\s*/)
-      @value1.strip!
-      @error.strip! if @error
+      strip_number(@value1)
+      strip_number(@error) if @error
     end
 
-    def validate_values
-      [@value1, @value2].compact.each do |value|
-        raise CSVPort::InvalidRecordError.new(:type => :badly_formatted_field, raw_content: @raw) if (value.count('.') or value.include?('('))> 1  # check for formatting error
+    def strip_number(number_str)  # helper for getting rid of hanging decimals
+      number_str.strip!
+      number_str.gsub!(/^[^\d]+|[^\d]+$/, '')
+    end
+
+    def validate_numbers
+      [@value1, @value2, @error].compact.each do |value|
+        raise CSVPort::InvalidRecordError.new(:type => :badly_formatted_field, raw_content: @raw) if value.nan?
       end
     end
 

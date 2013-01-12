@@ -1,17 +1,5 @@
-Status: new
-Active.
-
-Merger status:
-No current merger proposals.
-
-Cross-references:
-- CA1 (-)0113p-SUB 111 TH-ORP-DP-OR (active).  Packet contains Losonczy (2002) Fig 5b, as well as "classic" oriens-bistratified cells (aka O-R cells) first described by Maccaferri (2000).
-- CA2 (-)0003p-CA3 00003-CA1 0003-SUB 010 (suspended).  Packet contains Losonczy (2002) Fig 5d.
-
-
-Notes:
 Axonal arbor is very wide and extent of projections is somewhat unclear.  The subject is not discussed in Katona (1999) and Losonczy (2002) admit that the arbor was likely "severly truncated" due to slicing.
-
+<p>
 The cell in Losonczy's Fig 5a does not project to CA3, though the authors speculate that 40% of oriens-bistratified cells project both there and to the subiculum.
-
+<p>
 Electrophysiology and chemical marker (SST+) data in Losonczy (2002).

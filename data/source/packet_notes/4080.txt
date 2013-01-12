@@ -1,4 +1,0 @@
-This class is a merger of
-  CA1 0333 bistratified (BiS) cells (our earliest citation by Buhl et al., 1994)
-  CA1 0333 basket cells (BC) (in Pawelzik et al., 2002)
-  CA1 0333 ivy cells (first coined by Fuentealba et al., 2008)

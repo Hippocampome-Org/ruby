@@ -1,5 +1,1 @@
-Status: Active 
-
-Merger status: None being considered
-   
-Notes:  This cell type was approved when it was in a packet with a total of three references.  Its patterning has not changed.  The packet had to be split because this cell is excitatory and the other two are inhibitory.  The other two cells are in the pyramid-looking III packet.
+This cell type was approved when it defined by a total of three references.  Its patterning has not changed.  The cell type had to be split because this cell is excitatory and the other two are inhibitory.  The other two cells are in the pyramid-looking III cell type.

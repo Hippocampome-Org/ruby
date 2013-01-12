@@ -1,7 +1,0 @@
-Status: active
-
-Merger status:
-Merger of CA3 (+)03333 bistratified cells and CA3 (+)03323 ivy cells.
-
-Notes:
-Methods sections need to be added.

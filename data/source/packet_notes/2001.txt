@@ -1,18 +1,1 @@
-Status: 
-Active.
-
-Merger status:
-No current merger proposals.
-
-Cross-references:
-CA3 (-)03333 bistratified-ivy cells (active)
-CA3 (-)02130 regular spiking basket cells (RSBC) (proposed suspended)
-
-Related classes:
-DG (+)2201p granule cells (GC) (active)
-
-Notes: This packet was never initialed by Giorgio.
 Occasional A:DG:SM.
-
-Cited Sources:
-Szabadics et el. (2010) J. Neurosci. 30(24):8296 [20554881][PMC2903457]

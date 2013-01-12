@@ -316,15 +316,16 @@ module Hippocampome
         "Unique ID (* -EP Suppl)" => :type_id,
         "Rows" => :rows,
         "Vrest (mV)" => :Vrest,
-        "Rin (mOm)" => :Rin,
+        "Rin (MW)" => :Rin,
         "tm (ms)" => :tm,
         "Vthresh (mV)" => :Vthresh,
         "Fast AHP (mV)" => :fast_AHP,
         "AP ampl (mV)" => :AP_ampl,
         "AP width (ms)" => :AP_width,
-        "Max F R (s-1 @pA)" => :max_fr,
+        "Max F R (Hz @pA@time)" => :max_fr,
         "Slow AHP {mV@pA@ms}" => :slow_AHP,
         "Sag ratio {@pA}" => :sag_ratio,
+        "Linking PMID" => :linking_pmid,
         #"V-I resp" => :VI_resp,
         #"Fr adapt" => :Fr_adapt,
         #"I/V char" => :IV_char,
@@ -432,6 +433,93 @@ module Hippocampome
         },
       ]
     },
+
+    marker_evidence_links: {
+      id: :marker_evidence_links,
+      processors: [
+        "Hippocampome::MarkerEvidenceLinkRowProcessor",
+        "Hippocampome::MarkerEvidenceLinkStatementProcessor",
+        "Hippocampome::MarkerEvidenceLinkLoader",
+      ],
+        field_mapping: {
+        "Reference ID" => :original_id,
+        "Notes/Interpretations" => :interpretation,
+      },
+      required_fields: [
+        :original_id,
+        :interpretation
+      ],
+      row_transform: 2,
+      prepare_headers: lambda {
+        @headers = @rows.shift
+        @headers[7], @headers[9] = "Protocol location in reference", "Species location in reference"  # change the duplicate field names ("Location in reference")
+      },
+      tests: [
+          {
+            name: "fragment id valid",
+            field: :original_id,
+            test: lambda { @record.original_id.match(/^\d+/) },
+            error_data: lambda {
+              {
+                type: :missing_fragment_reference,
+                value: @record.original_id
+              }
+            }
+          }
+      ]
+    },
+
+    marker_evidence_links: {
+      id: :marker_evidence_links,
+      processors: [
+        "Hippocampome::MarkerEvidenceLinkRowProcessor",
+        "Hippocampome::MarkerEvidenceLinkStatementProcessor",
+        "Hippocampome::MarkerEvidenceLinkStatementLoader",
+      ],
+        field_mapping: {
+        "Reference ID" => :original_id,
+        "Notes/Interpretations" => :interpretation,
+      },
+      required_fields: [
+        :original_id,
+        :interpretation
+      ],
+      row_transform: 2,
+      prepare_headers: lambda {
+        @headers = @rows.shift
+        @headers[7], @headers[9] = "Protocol location in reference", "Species location in reference"  # change the duplicate field names ("Location in reference")
+      },
+      tests: [
+          {
+            name: "fragment id valid",
+            field: :original_id,
+            test: lambda { @record.original_id.match(/^\d+/) },
+            error_data: lambda {
+              {
+                type: :missing_fragment_reference,
+                value: @record.original_id
+              }
+            }
+          }
+      ]
+    },
+
+    known_connections: {
+      id: :known_connections,
+      processors: [
+        "Hippocampome::KnownConnectionsRowProcessor",
+        "Hippocampome::KnownConnectionsRowLoader",
+      ],
+      field_mapping: {
+        "Source class identity" => :Type1_id,
+        "Target class identity" => :Type2_id,
+        "Target layer" => :connection_location,
+        "Connection?" => :connection_status,
+      },
+      required_fields: [:Type1_id, :Type2_id, :connection_location, :connection_status],
+      row_transform: 2,
+    }
+
   }
 
 end

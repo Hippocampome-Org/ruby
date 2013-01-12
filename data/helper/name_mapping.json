@@ -10,6 +10,7 @@
   "CA3:stratum lacunosum-moleculare": "CA3:SLM",
   "CA3:stratum oriens": "CA3:SO",
   "CA3:stratum pyramidal": "CA3:SP",
+  "CA3:stratum lacunosum": "CA3:SLM",
   "CA2:stratum pyramidale": "CA2:SP",
   "CA2:stratum oriens": "CA2:SO",
   "CA1:stratum radiatum": "CA1:SR",

@@ -1,13 +1,9 @@
-Status: active
-
-Merger status:
-- Merger REVOKED between CA1 (-)0012 axo-axonic and CA1 0012 basket cells due to target specificity.  Axo-axonic cells exclusively target pyramidal cells; basket cells also target interneurons.
-
-- The Zemankovics CA1 (-)0012 FS PTI cells are merged into this packet even though the authors could not distinguish between axo-axonic and basket cells
-
-Notes:
+Axo-axonic cells exclusively target pyramidal cells; basket cells also target interneurons.
+<p>
+- The Zemankovics CA1 (-)0012 FS PTI cells are merged into this cell type even though the authors could not distinguish between axo-axonic and basket cells
+<p>
 Target soma and proximal dendrites of CA1 pyramidal cells and other interneurons.
-
-Hippocampome rules enacted:
-- Rule 4, Section 3, Subsection ii, Clause 3 - perisomatic axonal targeting interpreted as PCL
-- Rule 4, Section 3, Subsection iii, Clause 1 - extended interpretation of SP in apical and basal directions
+<p>
+perisomatic axonal targeting interpreted as PCL
+<p>
+extended interpretation of SP in apical and basal directions

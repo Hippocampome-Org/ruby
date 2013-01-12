@@ -36,6 +36,9 @@ end
 class Evidence < Sequel::Model(DB[:Evidence])
   many_to_many :Article, :join_table=>:ArticleEvidenceRel
   many_to_many :Fragment, :join_table=>:EvidenceFragmentRel
+  many_to_many :Type, :join_table=>:EvidencePropertyTypeRel
+  many_to_many :LowerEvidence, :left_key => :Evidence1_id, :right_key => :Evidence2_id, :join_table => :EvidenceEvidenceRel, :class => self
+  many_to_many :UpperEvidence, :left_key => :Evidence2_id, :right_key => :Evidence1_id, :join_table => :EvidenceEvidenceRel, :class => self
 end
 
 DUMMY_EVIDENCE = Evidence.new.save
@@ -77,23 +80,44 @@ end
 class Type < Sequel::Model(DB[:Type])
 
   many_to_many :Property, :join_table => :EvidencePropertyTypeRel
+  many_to_many :EvidenceDirect, :class=>Evidence, :left_key => :Type_id, :right_key => :Evidence_id, :join_table => :EvidencePropertyTypeRel
 
   unrestrict_primary_key
 
+  parcels = ['DG', 'CA3', 'CA2', 'CA1', 'SUB', 'EC']
+  @excluded_morph_objects = { object: ["hippocampal formation", *parcels] }
+
+  def EvidenceIndirect
+    ev = self.EvidenceDirect.map do |evidence|
+      evidence.LowerEvidence
+    end
+    ev.flatten
+  end
+
+  def Fragment
+    fragments = self.EvidenceIndirect.map { |evidence| evidence.Fragment }
+    fragments.flatten
+  end
+
   def soma_properties
-    Property.filter(Type: self, subject: 'somata', predicate: 'in')
+    binding.pry
+    Property.filter(Type: self, subject: 'somata', predicate: 'in').exclude(@excluded_morph_objects)
   end
 
   def axon_properties
-    Property.filter(Type: self, subject: 'axons', predicate: 'in')
+    Property.filter(Type: self, subject: 'axons', predicate: 'in').exclude(@excluded_morph_objects)
   end
 
   def dendrite_properties
-    Property.filter(Type: self, subject: 'dendrites', predicate: 'in')
+    Property.filter(Type: self, subject: 'dendrites', predicate: 'in').exclude(@excluded_morph_objects)
+  end
+
+  def morph_properties
+    Property.filter(Type: self, subject: ['somata', 'axons', 'dendrites'], predicate: 'in').exclude(@excluded_morph_objects)
   end
 
   def to_s
-    nickname
+    name
   end
 
   def subregion
@@ -121,6 +145,8 @@ class EvidenceEvidenceRel < Sequel::Model(DB[:EvidenceEvidenceRel])
 end 
 
 class EvidencePropertyTypeRel < Sequel::Model(DB[:EvidencePropertyTypeRel])
+  many_to_one :Evidence
+  many_to_one :Type
 end 
 
 class ArticleEvidenceRel < Sequel::Model(DB[:ArticleEvidenceRel])
@@ -142,3 +168,5 @@ end
 class SynonymTypeRel < Sequel::Model(DB[:SynonymTypeRel])
 end 
 
+class TypeTypeRel < Sequel::Model(DB[:TypeTypeRel])
+end
