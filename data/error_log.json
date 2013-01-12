@@ -8001,5 +8001,8008 @@
     "row": 250,
     "field": "original_id",
     "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 27,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 62,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 68,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 121,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 127,
+    "field": null,
+    "file": "type.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "quote"
+    ],
+    "row": 1236,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "original_id"
+    ],
+    "row": 1535,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1536,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1537,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 1538,
+    "field": null,
+    "file": "morph_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 5,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 101,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 170,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 194,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 209,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 212,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 217,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 241,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 245,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 247,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 248,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 259,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 262,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 286,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 289,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 292,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 296,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 299,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "pmid_isbn"
+    ],
+    "row": 320,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 321,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 323,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 343,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 350,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 357,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 362,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 365,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 369,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 372,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 386,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 389,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 391,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 395,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 397,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 404,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 406,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 408,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 410,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 430,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 451,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 452,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 454,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 456,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 466,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 471,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 473,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 474,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 475,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 476,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 477,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 478,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 479,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 480,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 481,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 482,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 483,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 484,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 485,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 486,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 487,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 488,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 490,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 491,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 493,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 497,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 500,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 503,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 505,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 511,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 516,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 518,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 520,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 523,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 525,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 527,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 531,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 534,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 538,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 540,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 545,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 553,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 555,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 562,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 566,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 568,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 574,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 577,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 579,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 581,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 590,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 595,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 601,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 605,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 606,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 613,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 625,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 631,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 634,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 636,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 639,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 640,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 641,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 642,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 644,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 645,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 646,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 647,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 648,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "data_page_location"
+    ],
+    "row": 649,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 6,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 7,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 8,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 12,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 14,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 16,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 17,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 18,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 23,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 26,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 28,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 29,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 40,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 43,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 46,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 48,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 51,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 52,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 58,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 61,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 62,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 65,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 68,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 69,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 79,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "filename"
+    ],
+    "row": 90,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 110,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "type_id"
+    ],
+    "row": 111,
+    "field": null,
+    "file": "packet_notes.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "4078, 4026",
+    "row": 588,
+    "field": "type_id",
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "type_id",
+      "filename",
+      "figure_table"
+    ],
+    "row": 599,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "type_id",
+      "filename",
+      "figure_table"
+    ],
+    "row": 600,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 601,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 602,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 603,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 604,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 605,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 606,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 607,
+    "field": null,
+    "file": "figure.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 30,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 65,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 71,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 124,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 130,
+    "field": null,
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "201.201.160966",
+    "row": 94,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "value": "101.161088 110.161160",
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 12,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 19,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 19,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 19,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 19,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 19,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 23,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 23,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 23,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 23,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 23,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 24,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 24,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 24,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 24,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 24,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160391,
+    "row": 28,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 29,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 29,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 29,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 29,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 29,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 11872264,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160987,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161015,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161019,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161106,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161108,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161114,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 1498441,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 30,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161015,
+    "row": 31,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 31,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 31,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161019,
+    "row": 39,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8953305,
+    "row": 40,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 14984406,
+    "row": 40,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8953305,
+    "row": 40,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160813,
+    "row": 44,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160813,
+    "row": 44,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160813,
+    "row": 44,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 45,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 45,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 45,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 45,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 45,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160577,
+    "row": 49,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 52,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 52,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 52,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 52,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8758948,
+    "row": 52,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8953305,
+    "row": 53,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160573,
+    "row": 59,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160573,
+    "row": 59,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8953305,
+    "row": 63,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 1721075,
+    "row": 63,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 11872264,
+    "row": 64,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 64,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160615,
+    "row": 65,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 20882544,
+    "row": 65,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160615,
+    "row": 65,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160619,
+    "row": 67,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161224,
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161104,
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161114,
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 1498441,
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161102,
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161100,
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161102,
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161100,
+    "row": 69,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 16237182,
+    "row": 72,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161136,
+    "row": 75,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510005,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510004,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510005,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510006,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510004,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510005,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510004,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160767,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160771,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510004,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510006,
+    "row": 81,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510004,
+    "row": 82,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510004,
+    "row": 82,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160767,
+    "row": 82,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160771,
+    "row": 82,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510004,
+    "row": 82,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 9334415,
+    "row": 83,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161136,
+    "row": 87,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 16106,
+    "row": 87,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160615,
+    "row": 89,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161096,
+    "row": 89,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161136,
+    "row": 89,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 20534847,
+    "row": 90,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 15539390,
+    "row": 90,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161118,
+    "row": 90,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 15539390,
+    "row": 91,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161096,
+    "row": 91,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161136,
+    "row": 91,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 92,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160979,
+    "row": 92,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161118,
+    "row": 92,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 92,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 16106,
+    "row": 92,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 94,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160973,
+    "row": 94,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160975,
+    "row": 94,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 94,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 16106,
+    "row": 94,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 95,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 95,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161092,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161098,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 15539390,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161102,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 7472426,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 7517996,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160547,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160977,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161090,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161092,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161094,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161102,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160977,
+    "row": 103,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160619,
+    "row": 104,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160619,
+    "row": 104,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 15539390,
+    "row": 104,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 11807843,
+    "row": 104,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160157,
+    "row": 104,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160157,
+    "row": 104,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 104,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 21795545,
+    "row": 105,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160537,
+    "row": 105,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 9503336,
+    "row": 111,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 9503336,
+    "row": 111,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 11807843,
+    "row": 111,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161136,
+    "row": 111,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160541,
+    "row": 111,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 113,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 113,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 115,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510002,
+    "row": 115,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160547,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160459,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 17699661,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 1769966,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160547,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 17699661,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 17699661,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160547,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160553,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160557,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 1769966,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161059,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 1769966,
+    "row": 116,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161110,
+    "row": 117,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161112,
+    "row": 117,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 510003,
+    "row": 117,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 11807843,
+    "row": 118,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 16237182,
+    "row": 118,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160547,
+    "row": 118,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160547,
+    "row": 118,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 16237182,
+    "row": 118,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161096,
+    "row": 119,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 161136,
+    "row": 119,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 121,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 0,
+    "row": 122,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8376624,
+    "row": 126,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 8376624,
+    "row": 126,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160919,
+    "row": 133,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "loaded_anyway": "yes",
+    "referenc": 160919,
+    "row": 163,
+    "field": "type_id",
+    "file": "markerdata.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "5-000",
+    "row": 81,
+    "field": "type_id",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "6-080**",
+    "row": 91,
+    "field": "type_id",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "missing_type_reference",
+    "value": "6-081",
+    "row": 92,
+    "field": "type_id",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "8261117",
+    "type_id": null,
+    "row": 15,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "19965717_@",
+    "row": 16,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "19965717_@",
+    "row": 16,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "19965717_@",
+    "row": 16,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "19965717_@",
+    "row": 16,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "19965717_@",
+    "row": 16,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "20080772",
+    "type_id": null,
+    "row": 17,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "20080772",
+    "type_id": null,
+    "row": 17,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "8261117_@",
+    "row": 20,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "18189311_@",
+    "row": 21,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19232379",
+    "type_id": null,
+    "row": 21,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11353016",
+    "type_id": null,
+    "row": 21,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "2357533",
+    "type_id": null,
+    "row": 21,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "16584711",
+    "type_id": null,
+    "row": 21,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19232379",
+    "type_id": null,
+    "row": 21,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11353016",
+    "type_id": null,
+    "row": 21,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "2357533",
+    "type_id": null,
+    "row": 21,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19232379",
+    "type_id": null,
+    "row": 21,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11353016",
+    "type_id": null,
+    "row": 21,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "2357533",
+    "type_id": null,
+    "row": 21,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18189311",
+    "type_id": null,
+    "row": 21,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11353016",
+    "type_id": null,
+    "row": 21,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "2357533",
+    "type_id": null,
+    "row": 21,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18189311",
+    "type_id": null,
+    "row": 21,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11353016",
+    "type_id": null,
+    "row": 21,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18189311",
+    "type_id": null,
+    "row": 21,
+    "field": "max_fr",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19496174",
+    "type_id": null,
+    "row": 25,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19496174",
+    "type_id": null,
+    "row": 25,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19496174",
+    "type_id": null,
+    "row": 25,
+    "field": "Vthresh",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19496174",
+    "type_id": null,
+    "row": 25,
+    "field": "fast_AHP",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19496174",
+    "type_id": null,
+    "row": 25,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19496174",
+    "type_id": null,
+    "row": 25,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "15486016 {Table1;- 58.5 ± 2.8(6 )}SEM",
+    "row": 26,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "15486016 {p.138, right;  0.79 ± 0.02 (10 SEM)@-200 }",
+    "row": 30,
+    "field": "sag_ratio",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "19339618_@",
+    "row": 34,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "9300769_@",
+    "row": 35,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "9300769_@ (Fig.6C, p.438)",
+    "row": 35,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 35,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 35,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 35,
+    "field": "fast_AHP",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 35,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 35,
+    "field": "max_fr",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 35,
+    "field": "slow_AHP",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 35,
+    "field": "sag_ratio",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 36,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 36,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 36,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 36,
+    "field": "fast_AHP",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 36,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 36,
+    "field": "max_fr",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 36,
+    "field": "slow_AHP",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "9300769",
+    "type_id": null,
+    "row": 36,
+    "field": "sag_ratio",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11067982",
+    "type_id": null,
+    "row": 48,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "20421280",
+    "type_id": null,
+    "row": 48,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11067982",
+    "type_id": null,
+    "row": 48,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "20421280",
+    "type_id": null,
+    "row": 48,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "20421280",
+    "type_id": null,
+    "row": 48,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11067982",
+    "type_id": null,
+    "row": 48,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11067982",
+    "type_id": null,
+    "row": 48,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "17185334_@",
+    "row": 49,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "17185334_@ (ADP)",
+    "row": 49,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "17185334_@",
+    "row": 49,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18184315",
+    "type_id": null,
+    "row": 52,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "7931512",
+    "type_id": null,
+    "row": 52,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18184315",
+    "type_id": null,
+    "row": 52,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "7931512",
+    "type_id": null,
+    "row": 52,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18184315",
+    "type_id": null,
+    "row": 52,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "7931512",
+    "type_id": null,
+    "row": 52,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18184315",
+    "type_id": null,
+    "row": 52,
+    "field": "fast_AHP",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18184315",
+    "type_id": null,
+    "row": 52,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "7931512",
+    "type_id": null,
+    "row": 52,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "18184315",
+    "type_id": null,
+    "row": 52,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "~21795545_@",
+    "row": 56,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19741117",
+    "type_id": null,
+    "row": 57,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "19741117",
+    "type_id": null,
+    "row": 57,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 61,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 61,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11807843",
+    "type_id": null,
+    "row": 61,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "11807843",
+    "type_id": null,
+    "row": 61,
+    "field": "Vthresh",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "20421280_@",
+    "row": 71,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 72,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 72,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 72,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 75,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 75,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 75,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 75,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 75,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "20421280_@",
+    "row": 76,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 80,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 80,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "11807843_@",
+    "row": 80,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "Fig3_@",
+    "row": 84,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 86,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 86,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 86,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 86,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 86,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 86,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "12209840_@",
+    "row": 95,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "12209840",
+    "type_id": null,
+    "row": 95,
+    "field": "Vrest",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "12209840",
+    "type_id": null,
+    "row": 95,
+    "field": "Rin",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "12209840",
+    "type_id": null,
+    "row": 95,
+    "field": "tm",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "12209840",
+    "type_id": null,
+    "row": 95,
+    "field": "Vthresh",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "12209840",
+    "type_id": null,
+    "row": 95,
+    "field": "fast_AHP",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "12209840",
+    "type_id": null,
+    "row": 95,
+    "field": "AP_ampl",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "badly_formatted_field",
+    "raw_content": "12209840",
+    "type_id": null,
+    "row": 95,
+    "field": "AP_width",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "2_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "not_yet_extracted",
+    "raw_content": "1_@",
+    "row": 102,
+    "field": "statement",
+    "file": "epdata.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 59,
+    "field": null,
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 128,
+    "field": null,
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 139,
+    "field": null,
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 244,
+    "field": null,
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 255,
+    "field": null,
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "value": "611053",
+    "row": 17,
+    "field": "type_id",
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "value": 911984,
+    "row": 183,
+    "field": "type_id",
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "value": 911984,
+    "row": 184,
+    "field": "type_id",
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "value": "661770",
+    "row": 257,
+    "field": "type_id",
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "value": "661770",
+    "row": 258,
+    "field": "type_id",
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "value": "661770",
+    "row": 258,
+    "field": "type_id",
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "value": "512240",
+    "row": 268,
+    "field": "type_id",
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "missing_fragment_reference",
+    "value": "6111161",
+    "row": 274,
+    "field": "type_id",
+    "file": "hc_main.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 5,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 6,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 7,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 8,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 9,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 10,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 11,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 12,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 14,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 15,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 16,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 17,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 18,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 19,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 20,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 21,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 22,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 23,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 24,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 25,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 26,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 27,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 28,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 30,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 31,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 32,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 33,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 34,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 35,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 36,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 37,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 38,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 39,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 40,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 41,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 42,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 43,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 44,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 45,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 46,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 47,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 48,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 49,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 50,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 51,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 52,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 53,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 54,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 55,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 58,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 59,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 60,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 61,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 62,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 63,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 64,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 65,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 66,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 67,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 68,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 69,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 70,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 71,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 72,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 73,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 74,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 75,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 76,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 77,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 78,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 79,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 80,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 81,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 82,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 83,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 84,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 85,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 86,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 87,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 88,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 89,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 90,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 91,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 92,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 93,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 94,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 95,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 96,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 97,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 98,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 99,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 100,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 101,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 102,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 103,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 104,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 105,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 106,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 107,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 108,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 109,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 110,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 111,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 112,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 113,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 114,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 115,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 116,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 117,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 118,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 119,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 120,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 121,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 122,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 123,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 125,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 126,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 127,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 128,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 129,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 130,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 131,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 133,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 134,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 135,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 136,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 137,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 138,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 139,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 140,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 141,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 142,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 143,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 145,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 146,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 147,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 148,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 149,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 151,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 152,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 153,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 154,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 155,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 156,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 157,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 158,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 159,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 160,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 161,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 162,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 163,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 164,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 165,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 166,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 167,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 168,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 169,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 170,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 171,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 172,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 173,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 174,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 175,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 176,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 177,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 178,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 179,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 180,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 181,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 182,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 183,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 184,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 185,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 186,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 194,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 195,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 196,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 197,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 198,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 199,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 201,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 202,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 203,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 204,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 205,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 206,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 207,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 208,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 209,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 210,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 211,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 212,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 213,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 214,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 215,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 216,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 217,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 218,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 219,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 220,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 221,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 222,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 223,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 224,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 225,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 226,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 227,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 228,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 229,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 230,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 231,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 232,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 233,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 234,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 235,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 236,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 237,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 238,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 239,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 240,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 241,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 248,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 249,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 250,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 251,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 252,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 253,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 254,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 255,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 256,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 257,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 258,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 259,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 262,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 263,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 264,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 265,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 266,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 267,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 268,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 269,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 270,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 271,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 272,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 273,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 274,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 275,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 277,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 278,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 279,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 280,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 281,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 282,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 284,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 285,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 286,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 288,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 289,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 290,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 291,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 292,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 299,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 300,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 301,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 302,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 303,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 304,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 305,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 306,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 307,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 308,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 309,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 310,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 311,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 312,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 313,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 314,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 315,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 317,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 318,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 321,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 323,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 324,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 325,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 326,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 327,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 328,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 331,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 332,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 333,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 334,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 335,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 336,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 337,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 338,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 339,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 341,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 342,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 343,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 344,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 345,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 346,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 347,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 348,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 349,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 350,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 351,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 353,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 354,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 355,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 356,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 357,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 358,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 359,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 360,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 361,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 362,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 365,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 369,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 372,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 386,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 389,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 391,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 395,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 397,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 404,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 406,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 408,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 409,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 410,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 430,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 452,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 454,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 456,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 466,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 471,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 481,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 488,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 491,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 493,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 497,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 500,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 505,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 511,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 516,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 518,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 520,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 523,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 525,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 527,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 531,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 534,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 535,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 536,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 538,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 540,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 545,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 553,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 555,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 562,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 568,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 574,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 577,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 579,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 581,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 590,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 595,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 601,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 606,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 607,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 609,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 613,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 614,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 621,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 625,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 626,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 627,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 628,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "empty_row",
+    "row": 636,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 637,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 639,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 640,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 641,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 642,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 643,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 644,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 645,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 646,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 647,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 648,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "missing_field",
+    "fields": [
+      "interpretation"
+    ],
+    "row": 649,
+    "field": null,
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:3303 TML",
+    "row": 4,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:3302 TML-Molax",
+    "row": 4,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:3222 OML",
+    "row": 4,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "EC:023300 PL-BPN",
+    "row": 35,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "EC:23100 FOMP",
+    "row": 35,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "EC:23100 FOMP",
+    "row": 37,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2201 PLP-RGC",
+    "row": 48,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223p pyramidal",
+    "row": 48,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2201 PLP-RGC",
+    "row": 49,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223p pyramidal",
+    "row": 49,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2201 PLP-RGC",
+    "row": 50,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223p pyramidal",
+    "row": 50,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0300 SCA",
+    "row": 51,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2333 radial trilaminar",
+    "row": 51,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 bistratified",
+    "row": 53,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 53,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 basket",
+    "row": 54,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 axo-axonic",
+    "row": 54,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 bistratified",
+    "row": 54,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 54,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 basket",
+    "row": 55,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 axo-axonic",
+    "row": 55,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 bistratified",
+    "row": 55,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 55,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 basket",
+    "row": 56,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0012 basket",
+    "row": 56,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2311 SCA",
+    "row": 56,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 bistratified",
+    "row": 56,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0003 SO-SO",
+    "row": 56,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3333 quadrilaminar",
+    "row": 56,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0300 SCA",
+    "row": 56,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3100 PPA",
+    "row": 56,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 basket",
+    "row": 57,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3323p PPA proj",
+    "row": 61,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0012 basket",
+    "row": 64,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3323p PPA",
+    "row": 64,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3100p IS-1",
+    "row": 79,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 Bi-Ivy",
+    "row": 83,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 Bi-Ivy",
+    "row": 85,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 Bi-Ivy",
+    "row": 88,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 Bi-Ivy",
+    "row": 93,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2100 IS-1",
+    "row": 118,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 Bi-Ivy",
+    "row": 120,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 137,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 138,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 139,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 140,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 PV BC",
+    "row": 141,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 AA",
+    "row": 141,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0012 AA horiz",
+    "row": 141,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 142,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 pyr",
+    "row": 143,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 pyr",
+    "row": 144,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 144,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 145,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr a/b",
+    "row": 146,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 147,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr a/b",
+    "row": 147,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0102 SO IS-1",
+    "row": 148,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0102 SO IS-1",
+    "row": 149,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 150,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr a/b",
+    "row": 150,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 BC",
+    "row": 152,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2232 bc",
+    "row": 159,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 bc",
+    "row": 159,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0102 is-1",
+    "row": 159,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2232 bc",
+    "row": 160,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 bc",
+    "row": 160,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0102 is-1",
+    "row": 160,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2232 bc",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2232 bc-cck",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3200p pp ii",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2300 is-1",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 bc",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 bc-cck",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 axo-axonic",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:1002 O-LM",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0300 sca-sr-cb",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0102 is-1",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0012 axo-axonic",
+    "row": 161,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3300P PPA PROJ",
+    "row": 169,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3200P PPA-SUB",
+    "row": 169,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:3000P NGF PROJ",
+    "row": 169,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2300 SR IS-1",
+    "row": 169,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0313P ENK",
+    "row": 169,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2232 BC-PV",
+    "row": 170,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 pyr",
+    "row": 185,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 pyr pyr",
+    "row": 185,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2201 GC",
+    "row": 185,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 pyr",
+    "row": 186,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 pyr pyr",
+    "row": 186,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2201 GC",
+    "row": 187,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 basket",
+    "row": 195,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 206,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 AA",
+    "row": 210,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 BC",
+    "row": 210,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 BiC",
+    "row": 212,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 AA",
+    "row": 212,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 BC",
+    "row": 212,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr a/b",
+    "row": 217,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 217,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "GC:2201 GC",
+    "row": 218,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr",
+    "row": 220,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 220,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr",
+    "row": 221,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 221,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:2201 GC",
+    "row": 222,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "GC:2201 GC",
+    "row": 223,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 223,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "GC:2201 GC",
+    "row": 223,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 223,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:22232 Basket-CCK",
+    "row": 234,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:22232 Basket-CCK",
+    "row": 234,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:12000R-LM",
+    "row": 234,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:12000R-LM",
+    "row": 234,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:22232 Basket-CCK",
+    "row": 235,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:22232 Basket-CCK",
+    "row": 236,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:12000R-LM",
+    "row": 237,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA2:2232P BC",
+    "row": 239,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA2:2232 BC",
+    "row": 239,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA2:0313P BIC",
+    "row": 239,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 BIC",
+    "row": 239,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0012 AA",
+    "row": 239,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:03333P IS-3",
+    "row": 239,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2300 IS-1",
+    "row": 239,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2003 IS-3",
+    "row": 239,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2201 GC",
+    "row": 240,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr a/b",
+    "row": 240,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 240,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2233 aa",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2232 bc",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:22232 BC",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:22232 AA",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:11003 O-LM",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA2:2232P BC",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA2:2232 BC",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA2:0313P BIC",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 BC",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2232 AA",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0333 BIC",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:0012 AA",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:03333P IS-3",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2300 IS-1",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 QUAD IS-3",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2003 IS-3",
+    "row": 241,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr a/b",
+    "row": 245,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:03223 Pyr c",
+    "row": 245,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA2:2333 Pyr",
+    "row": 245,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 247,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr a/b",
+    "row": 248,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:03223 Pyr c",
+    "row": 248,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 248,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2201 GC",
+    "row": 248,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 249,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "DG:2201 GC",
+    "row": 249,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA3:23223 Pyr a/b",
+    "row": 250,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA1:2223 Pyr",
+    "row": 250,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
+  },
+  {
+    "type": "unmatchable_type",
+    "content": "CA2:2333 Pyr",
+    "row": 250,
+    "field": "original_id",
+    "file": "marker_fragment.csv"
   }
 ]
