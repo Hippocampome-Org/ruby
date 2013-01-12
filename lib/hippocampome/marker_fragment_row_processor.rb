@@ -1,4 +1,4 @@
-require '/Users/seanmackesey/Desktop/biblimatch/lib/biblimatch'
+require 'biblimatch'
 
 module Hippocampome
 
