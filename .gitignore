@@ -3,3 +3,5 @@
 .DS_Store
 data/source/
 data/error_log.json
+epdata.log
+user.sql

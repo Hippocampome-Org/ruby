@@ -65,7 +65,7 @@ def get_errors
 end
 
 def get_outfilepath
-  @outfilepath = "/Users/seanmackesey/Desktop/#{Date.today.strftime("%y%m%d")}_#{@filename.gsub(/\..*/,'')}_#{@error_type}_errors.json"
+  @outfilepath = "/Users/djh/wd/portal/db/hippocampome/#{Date.today.strftime("%y%m%d")}_#{@filename.gsub(/\..*/,'')}_#{@error_type}_errors.json"
 end
 
 def print_errors

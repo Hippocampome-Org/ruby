@@ -1,10 +1,10 @@
 require 'csv_port'
 require 'json'
-#require 'pry'
+require 'pry'
 
 DB_NAME = "hippocampome"
 DB_USERNAME = "root"
-DB_PASSWORD = "orgslice"
+DB_PASSWORD = "djh-mbpr"
 DB_ENCODING = "utf8"
 
 PORTING_LIBRARY = {
@@ -21,26 +21,26 @@ SOURCE_DATA = [
     filename: 'article.csv',
     target: :article
   },
-  {
-    filename: 'morph_fragment.csv',
-    target: :morph_fragment
-  }, 
-  {
-    filename: 'marker_fragment.csv',
-    target: :marker_fragment
-  },
-  {
-    filename: 'packet_notes.csv',
-    target: :packet_notes
-  },
-  {
-    filename: 'figure.csv',
-    target: :figure
-  },
-  {
-    filename: 'markerdata.csv',
-    target: :markerdata
-  },
+{
+   filename: 'morph_fragment.csv',
+   target: :morph_fragment
+ },
+ {
+   filename: 'marker_fragment.csv',
+   target: :marker_fragment
+ },
+ {
+   filename: 'packet_notes.csv',
+   target: :packet_notes
+ },
+ {
+   filename: 'figure.csv',
+   target: :figure
+ },
+ {
+   filename: 'markerdata.csv',
+   target: :markerdata
+ },
   {
     filename: 'epdata.csv',
     target: :epdata
@@ -50,13 +50,13 @@ SOURCE_DATA = [
     target: :hc_main
   },
   {
-    filename: 'marker_fragment.csv',
-    target: :marker_evidence_links
-  },
-  {
-    filename: 'known_connections.csv',
-    target: :known_connections
-  },
+   filename: 'marker_fragment.csv',
+   target: :marker_evidence_links
+ },
+ {
+   filename: 'known_connections.csv',
+   target: :known_connections
+ },
 ]
 
 HELPER_DATA = [
@@ -68,7 +68,7 @@ ERROR_DATA = [
 ]
 
 DATA_DIRECTORY = File.expand_path("../data", "__FILE__")
-EXTERNAL_SOURCE_DATA_DIRECTORY = "/Users/seanmackesey/google_drive/hc/data"
+EXTERNAL_SOURCE_DATA_DIRECTORY = "/Users/djh/wd/portal/dat/csv"
 SOURCE_DATA_DIRECTORY = File.expand_path('source', DATA_DIRECTORY)
 HELPER_DATA_DIRECTORY = File.expand_path('helper', DATA_DIRECTORY)
 ERROR_DATA_DIRECTORY = DATA_DIRECTORY

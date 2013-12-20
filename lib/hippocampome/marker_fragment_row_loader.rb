@@ -30,6 +30,8 @@ module Hippocampome
         link(evidence, fragment)
         link(@article, evidence)
       end
+    rescue => e
+      binding.pry
     end
 
     def load_fragment(fragment_type)

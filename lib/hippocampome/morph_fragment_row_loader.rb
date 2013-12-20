@@ -39,6 +39,8 @@ module Hippocampome
     def link_article_to_evidence
       link(@article, @evidence)
       #binding.pry
+    rescue => e
+      binding.pry
     end
 
     def get_fragment

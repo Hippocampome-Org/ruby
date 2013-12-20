@@ -1,0 +1,33 @@
+vi ../../dat/pmids.txt
+
+bin/add_sources
+
+
+iconv -f latin1 -t utf8 ../../dat/csv/article.csv > data/source/article.csv
+
+iconv -f latin1 -t utf8 ../../dat/csv/marker_fragment.csv > data/source/marker_fragment.csv
+
+iconv -f latin1 -t utf8 ../../dat/csv/markerdata.csv > data/source/markerdata.csv
+
+iconv -f latin1 -t utf8 ../../dat/csv/figure.csv > data/source/figure.csv
+
+iconv -f latin1 -t utf8 ../../dat/csv/morph_fragment.csv > data/source/morph_fragment.csv
+
+iconv -f latin1 -t utf8 ../../dat/csv/hc_main.csv > data/source/hc_main.csv
+
+iconv -f latin1 -t utf8 ../../dat/csv/type.csv > data/source/type.csv
+
+iconv -f latin1 -t utf8 ../../dat/csv/known_connections.csv > data/source/known_connections.csv
+
+iconv -f latin1 -t utf8 ../../dat/csv/epdata.csv > data/source/epdata.csv
+
+
+mysql -u hdb hippocampome -p < hippocampome_schema.sql
+
+bin/build
+
+mysql -u hdb hippocampome -p < user.sql
+
+mysql -u hdb hippocampome -p < update.sql
+
+mysqldump -u hdb -p hippocampome > hippodevome_yyyymmddhhmm.sql

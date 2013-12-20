@@ -1,5 +1,6 @@
 #encoding: utf-8
 
+
 module Hippocampome
 
   class EpdataStatementProcessor
@@ -123,7 +124,6 @@ module Hippocampome
 
     def validate_pmid_isbn
       if not Article[{pmid_isbn: @pmid_isbn}]
-        binding.pry
         raise CSVPort::InvalidRecordError.new(:type => :missing_article_reference, pmid: @pmid_isbn, type_id: @record[:unique_id])
       end
     end
@@ -162,7 +162,7 @@ module Hippocampome
 
     def strip_number(number_str)  # helper for getting rid of hanging decimals
       number_str.strip!
-      number_str.gsub!(/^[^\d]+|[^\d]+$/, '')
+      number_str.gsub!(/^[^\-\d]+|[^\-\d]+$/, '')
     end
 
     def validate_numbers
