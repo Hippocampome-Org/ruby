@@ -3,11 +3,14 @@
 require 'pathname'
 ENV['BUNDLE_GEMFILE'] ||= File.expand_path("../../Gemfile", Pathname.new(__FILE__).realpath)
 require 'bundler/setup'
+$LOAD_PATH.unshift File.expand_path '../../lib', __FILE__
 
 require 'csv_port'
 require 'methadone'
-require 'hippocampome'
 require 'pry'
+# Pry.config.input = STDIN
+# Pry.config.output = STDOUT
+require 'hippocampome'
 
 include Methadone::Main
 include Methadone::CLILogging
@@ -16,7 +19,6 @@ main do
   begin
     path = File.expand_path('..', '__FILE__')
     builder = CSVPort::Builder.new(path, options)
-    binding.pry
     builder.build
     patch
   rescue StandardError => e

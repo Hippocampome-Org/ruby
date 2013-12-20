@@ -67,8 +67,8 @@ ERROR_DATA = [
   'error_log.json'
 ]
 
-DATA_DIRECTORY = File.expand_path("../data", "__FILE__")
-EXTERNAL_SOURCE_DATA_DIRECTORY = "/Users/seanmackesey/google_drive/data/hippocampome"
+DATA_DIRECTORY = "/Users/seanmackesey/google_drive/data/hippocampome"
+EXTERNAL_SOURCE_DATA_DIRECTORY = "/Users/seanmackesey/Desktop"
 SOURCE_DATA_DIRECTORY = File.expand_path('source', DATA_DIRECTORY)
 HELPER_DATA_DIRECTORY = File.expand_path('helper', DATA_DIRECTORY)
 ERROR_DATA_DIRECTORY = DATA_DIRECTORY

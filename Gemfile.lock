@@ -1,0 +1,64 @@
+GIT
+  remote: git://github.com/hippocampome/biblimatch.git
+  revision: 3a89688ee724d1b41507d3223212138d8cf3173b
+  branch: master
+  specs:
+    biblimatch (0.0.1)
+      bio
+      highline
+
+GIT
+  remote: git://github.com/hippocampome/csv_port.git
+  revision: a6e5ec5f02043b3793edc3c5417f7937bd3e46c7
+  branch: master
+  specs:
+    csv_port (0.0.1)
+      methadone
+      outdent
+      pry
+      rchardet19
+      sequel
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    binding_of_caller (0.7.2)
+      debug_inspector (>= 0.0.1)
+    bio (1.4.3.0001)
+    clipboard (1.0.5)
+    coderay (1.1.0)
+    debug_inspector (0.0.2)
+    highline (1.6.20)
+    methadone (1.3.1)
+      bundler
+    method_source (0.8.2)
+    mysql2 (0.3.14)
+    outdent (0.2.0)
+    pry (0.9.12.4)
+      coderay (~> 1.0)
+      method_source (~> 0.8)
+      slop (~> 3.4)
+    pry-clipboard (0.1.1)
+      clipboard
+      pry
+    pry-nav (0.2.3)
+      pry (~> 0.9.10)
+    pry-stack_explorer (0.4.9.1)
+      binding_of_caller (>= 0.7)
+      pry (>= 0.9.11)
+    rchardet19 (1.3.5)
+    sequel (3.43.0)
+    slop (3.4.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  biblimatch!
+  csv_port!
+  mysql2
+  pry
+  pry-clipboard
+  pry-nav
+  pry-stack_explorer
+  sequel (= 3.43.0)

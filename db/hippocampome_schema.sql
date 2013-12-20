@@ -14,7 +14,7 @@ CREATE TABLE Article (
   pmid_isbn BIGINT,
   pmcid VARCHAR(16),
   nihmsid VARCHAR(16),
-  doi VARCHAR(64),
+  doi VARCHAR(256),
   open_access TINYINT(1),
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   title VARCHAR(512),
@@ -58,7 +58,7 @@ CREATE TABLE Fragment (
   original_id INT,
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   quote TEXT,
-  page_location VARCHAR(32),
+  page_location VARCHAR(64),
   type ENUM('data', 'protocol', 'animal'),
   attachment VARCHAR(256),
   attachment_type ENUM('figure', 'table')
