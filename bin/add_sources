@@ -9,7 +9,7 @@ $LOAD_PATH.unshift File.expand_path '../../lib', __FILE__
 require 'biblimatch'
 require 'csv_port'
 require 'hippocampome'
-require 'rb-readline'
+require 'highline/import'
 
 require File.expand_path('../config', '__FILE__')
 require File.expand_path('../db/db_connection', '__FILE__')
@@ -20,17 +20,17 @@ default_article_filepath = "/Users/djh/wd/portal/dat/csv/article.csv"
 #default_pmid_filepath = "/Users/seanmackesey/Desktop/pmids.txt"
 default_pmid_filepath = "/Users/djh/wd/portal/dat/pmids.txt"
 
-article_filepath = Readline.readline("Enter path to article file (press return for default): ")
+article_filepath = ask "Enter path to article file (press return for default): "
 article_filepath = default_article_filepath if article_filepath.empty?
 article_table = CSV.read(article_filepath, headers: true, header_converters: :symbol)
 #source_ids = Article.map(:pmid_isbn)
 source_ids = article_table[:pmid_isbn].uniq
 
-pmid_filepath = Readline.readline("Enter path to source id file: ")
+pmid_filepath = ask "Enter path to source id file: "
 pmid_filepath = default_pmid_filepath if pmid_filepath.empty?
 sources_to_add = File.readlines(pmid_filepath).map{|li| li.chomp}.compact.uniq.reject{|x|x.include? "-"}
 
-add_to_db = Readline.readline("Add to DB (y/n)? ")
+add_to_db = ask "Add to DB (y/n)? "
 add_to_db = (add_to_db == 'y' ? true : false)
 sources_to_add_db = sources_to_add.dup
 
