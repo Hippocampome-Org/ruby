@@ -10,7 +10,7 @@ group :development do
   gem 'pry-nav'
   gem 'pry-stack_explorer'
   # gem 'pry-clipboard'
-  # gem 'mysql2'
-  gem 'mysql'
+  gem 'mysql2'
+  # gem 'mysql'
   gem 'sequel', '=3.43.0'
 end
