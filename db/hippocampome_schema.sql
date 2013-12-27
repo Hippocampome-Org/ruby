@@ -14,7 +14,7 @@ CREATE TABLE Article (
   pmid_isbn BIGINT,
   pmcid VARCHAR(16),
   nihmsid VARCHAR(16),
-  doi VARCHAR(256),
+  doi VARCHAR(640),
   open_access TINYINT(1),
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   title VARCHAR(512),
