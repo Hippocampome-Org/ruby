@@ -40,7 +40,7 @@ CREATE TABLE Epdata (
   value1 FLOAT,
   value2 FLOAT,
   error FLOAT,
-  std_sem ENUM('std', 'sem'),
+  std_sem VARCHAR(32),
   n FLOAT,
   istim VARCHAR(32),
   time VARCHAR(32),
