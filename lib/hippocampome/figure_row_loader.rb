@@ -19,8 +19,10 @@ module Hippocampome
     end
 
     def load_fragments
+
       @fragments.map! { |fragment| load_model(fragment, :match_on => [:original_id]) }
-    end
+
+     end
 
     def link_fragments_to_types
       priority = @record.priority
@@ -43,9 +45,11 @@ module Hippocampome
 
     def get_fragments
       common_values = {
+        
         attachment: @record.filename.gsub(/pdf$/, "jpg"),
         attachment_type: @record.figure_table
       }
+      
       if @record.ref_id
         fragments_values = @record.ref_id.split(/,\s*/).map do |ref_id|
           values = {original_id: ref_id}.merge(common_values)

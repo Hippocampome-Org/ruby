@@ -20,10 +20,11 @@ class Article < Sequel::Model(DB[:Article])
 
 end
 
-class Attachment < Sequel::Model(DB[:Attachment])
+class Attachment < Sequel::Model(DB[:Attachment]) 
   def to_s
     id
   end
+
 end
 
 class Author < Sequel::Model(DB[:Author])

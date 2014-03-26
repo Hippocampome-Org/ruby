@@ -13,6 +13,7 @@ module Hippocampome
       load_attachment
     end
 
+
    def get_attachment
       values = {
         cell_id: @record.type_id,
@@ -27,6 +28,7 @@ module Hippocampome
     def load_attachment
       load_model(@attachment)
     end
+    
     
   end
 end

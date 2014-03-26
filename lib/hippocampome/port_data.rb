@@ -158,8 +158,7 @@ module Hippocampome
     figure: {
       id: :figure,
       processors: [
-        "Hippocampome::FigureRowLoader"#,
-#        "Hippocampome::AttachmentRowLoader"#rebel
+        "Hippocampome::FigureRowLoader"
       ],
         field_mapping: {
         #"Authors" => :authors,
@@ -202,8 +201,7 @@ module Hippocampome
     attachment: {
       id: :attachment,
       processors: [
- #       "Hippocampome::FigureRowLoader",
-        "Hippocampome::AttachmentRowLoader"#rebel
+        "Hippocampome::AttachmentRowLoader"
       ],
         field_mapping: {
         #"Authors" => :authors,
@@ -239,7 +237,6 @@ module Hippocampome
           }
       ]
     },
-    
 
     markerdata: {
       id: :markerdata,
