@@ -27,6 +27,15 @@ CREATE TABLE Article (
   citation_count INT
 );
 
+CREATE TABLE Attachment (
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+cell_id	INT(11),
+original_id	INT(11),
+name	varchar(256),
+type	enum('figure','table')
+);
+
 CREATE TABLE Author (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,

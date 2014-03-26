@@ -1,4 +1,5 @@
 require 'hippocampome/article_row_loader'
+require 'hippocampome/attachment_row_loader'
 require 'hippocampome/epdata_row_collapser'
 require 'hippocampome/epdata_row_processor'
 require 'hippocampome/epdata_statement_processor'

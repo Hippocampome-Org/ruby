@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 
 ruby '2.0.0'
 
-gem 'csv_port', :github => 'hippocampome/csv_port', :branch => 'master'
-gem 'biblimatch', :github => 'hippocampome/biblimatch', :branch => 'master'
+gem 'csv_port', :github => 'Hippocampome-Org/csv_port', :branch => 'master'
+gem 'biblimatch', :github => 'Hippocampome-Org/biblimatch', :branch => 'master'
 
 group :development do
   gem 'pry'

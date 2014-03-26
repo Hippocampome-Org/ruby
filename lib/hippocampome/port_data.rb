@@ -158,7 +158,8 @@ module Hippocampome
     figure: {
       id: :figure,
       processors: [
-        "Hippocampome::FigureRowLoader"
+        "Hippocampome::FigureRowLoader"#,
+#        "Hippocampome::AttachmentRowLoader"#rebel
       ],
         field_mapping: {
         #"Authors" => :authors,
@@ -176,6 +177,7 @@ module Hippocampome
       required_fields: [
         :pmid_isbn,
         :type_id,
+        :ref_id,
         :filename,
         :figure_table
       ],
@@ -197,6 +199,47 @@ module Hippocampome
       ]
     },
 
+    attachment: {
+      id: :attachment,
+      processors: [
+ #       "Hippocampome::FigureRowLoader",
+        "Hippocampome::AttachmentRowLoader"#rebel
+      ],
+        field_mapping: {
+        #"Authors" => :authors,
+        #"Title" => :title,
+        #"Journal/Book" => :publication,
+        #"Year" => :year,
+        'PMID/ISBN' => :pmid_isbn,
+        'Page' => :page,
+        'Cell Identifier' => :type_id,
+        'Name of file containing figure' => :filename,
+        'Quote reference id' => :ref_id,
+        'Figure/Table' => :figure_table,
+        'Representative?' => :priority
+      },
+      required_fields: [
+        :pmid_isbn,
+        :type_id,
+        :ref_id,
+        :filename,
+        :figure_table
+      ],
+        tests: [
+          {
+            name: "fragment id valid",
+            field: :ref_id,
+            test: lambda { @record.ref_id.match(/^\d+/) },
+            error_data: lambda {
+              {
+                type: :missing_type_reference,
+                value: @record.ref_id
+              }
+            }
+          }
+      ]
+    },
+    
 
     markerdata: {
       id: :markerdata,

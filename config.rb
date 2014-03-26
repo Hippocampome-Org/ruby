@@ -3,8 +3,8 @@ require 'json'
 require 'pry'
 
 DB_NAME = "hippocampome"
-DB_USERNAME = "root"
-DB_PASSWORD = "orgslice"
+DB_USERNAME = "hdb"
+DB_PASSWORD = "h1pp0camp"
 DB_ENCODING = "utf8"
 
 PORTING_LIBRARY = {
@@ -37,6 +37,10 @@ SOURCE_DATA = [
    filename: 'figure.csv',
    target: :figure
  },
+  {
+   filename: 'figure.csv',
+   target: :attachment
+ },
  {
    filename: 'markerdata.csv',
    target: :markerdata
@@ -67,8 +71,8 @@ ERROR_DATA = [
   'error_log.json'
 ]
 
-DATA_DIRECTORY = "/Users/seanmackesey/google_drive/data/hippocampome"
-EXTERNAL_SOURCE_DATA_DIRECTORY = "/Users/seanmackesey/Desktop"
+DATA_DIRECTORY = File.expand_path("../data", "__FILE__")
+EXTERNAL_SOURCE_DATA_DIRECTORY = "/Users/djh/wd/portal/dat/csv"
 SOURCE_DATA_DIRECTORY = File.expand_path('source', DATA_DIRECTORY)
 HELPER_DATA_DIRECTORY = File.expand_path('helper', DATA_DIRECTORY)
 ERROR_DATA_DIRECTORY = DATA_DIRECTORY

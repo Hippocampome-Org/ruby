@@ -20,6 +20,12 @@ class Article < Sequel::Model(DB[:Article])
 
 end
 
+class Attachment < Sequel::Model(DB[:Attachment])
+  def to_s
+    id
+  end
+end
+
 class Author < Sequel::Model(DB[:Author])
 
   many_to_many :Article, :join_table=>:ArticleAuthorRel
@@ -62,6 +68,7 @@ class Fragment < Sequel::Model(DB[:Fragment])
   end
 
 end
+
 
 class Property < Sequel::Model(DB[:Property])
   many_to_many :Type, :join_table => :EvidencePropertyTypeRel
