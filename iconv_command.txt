@@ -22,9 +22,11 @@ iconv -f latin1 -t utf8 ../../dat/csv/known_connections.csv > data/source/known_
 iconv -f latin1 -t utf8 ../../dat/csv/epdata.csv > data/source/epdata.csv
 
 
-mysql -u hdb hippocampome -p < hippocampome_schema.sql
+mysql -u hdb hippocampome -p < db/hippocampome_schema.sql
 
 bin/build
+
+continue
 
 mysql -u hdb hippocampome -p < user.sql
 
