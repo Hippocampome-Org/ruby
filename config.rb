@@ -38,8 +38,16 @@ SOURCE_DATA = [
    target: :figure
  },
   {
-   filename: 'figure.csv',
-   target: :attachment
+   filename: 'attachment_morph.csv',
+   target: :attachment_morph
+ },
+   {
+   filename: 'attachment_marker.csv',
+   target: :attachment_marker
+ },
+   {
+   filename: 'attachment_ephys.csv',
+   target: :attachment_ephys
  },
  {
    filename: 'markerdata.csv',

@@ -33,7 +33,7 @@ dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 cell_id	INT(11),
 original_id	INT(11),
 name	varchar(256),
-type	enum('figure','table')
+type	enum('marker_figure','marker_table','morph_figure','morph_table','ephys_figure','ephys_table')
 );
 
 CREATE TABLE Author (
