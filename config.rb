@@ -33,10 +33,6 @@ SOURCE_DATA = [
    filename: 'packet_notes.csv',
    target: :packet_notes
  },
- {
-   filename: 'figure.csv',
-   target: :figure
- },
   {
    filename: 'attachment_morph.csv',
    target: :attachment_morph

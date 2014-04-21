@@ -68,9 +68,7 @@ CREATE TABLE Fragment (
   dt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   quote TEXT,
   page_location VARCHAR(64),
-  type ENUM('data', 'protocol', 'animal'),
-  attachment VARCHAR(256),
-  attachment_type ENUM('figure', 'table')
+  type ENUM('data', 'protocol', 'animal')
 );
 
 CREATE TABLE Markerdata (

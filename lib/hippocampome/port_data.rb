@@ -154,50 +154,6 @@ module Hippocampome
       auxilary_data_path: 'packet_notes'
     },
 
-
-    figure: {
-      id: :figure,
-      processors: [
-        "Hippocampome::FigureRowLoader"
-      ],
-        field_mapping: {
-        #"Authors" => :authors,
-        #"Title" => :title,
-        #"Journal/Book" => :publication,
-        #"Year" => :year,
-        'PMID/ISBN' => :pmid_isbn,
-        'Page' => :page,
-        'Cell Identifier' => :type_id,
-        'Name of file containing figure' => :filename,
-        'Quote reference id' => :ref_id,
-        'Figure/Table' => :figure_table,
-        'Representative?' => :priority
-      },
-      required_fields: [
-        :pmid_isbn,
-        :type_id,
-        :ref_id,
-        :filename,
-        :figure_table
-      ],
-        tests: [
-          {
-            name: "type reference integrity",
-            field: :type_id,
-            test: lambda {
-              type_ids = @record.type_id.split(/, /)
-              type_ids.map { |type_id| Type[type_id] }.all?
-            },
-            error_data: lambda {
-              {
-                type: :missing_type_reference,
-                value: @record.type_id
-              }
-            }
-          },
-      ]
-    },
-
     attachment_morph: {
       id: :attachment,
       processors: [
