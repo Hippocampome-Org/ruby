@@ -35,6 +35,10 @@ SOURCE_DATA = [
  },
   {
    filename: 'attachment_morph.csv',
+   target: :figure
+ },
+  {
+   filename: 'attachment_morph.csv',
    target: :attachment_morph
  },
    {

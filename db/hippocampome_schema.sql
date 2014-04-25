@@ -70,7 +70,7 @@ CREATE TABLE Fragment (
   page_location VARCHAR(64),
   type ENUM('data', 'protocol', 'animal'),
   attachment VARCHAR(256),
-  attachment_type ENUM('figure', 'table')
+  attachment_type ENUM('morph_figure', 'morph_table')
 
 );
 
