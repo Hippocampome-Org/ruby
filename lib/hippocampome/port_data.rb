@@ -72,12 +72,14 @@ module Hippocampome
         #:interpretation => :interpretation,
         "Location in reference" => :page_location,
         "PMID/ISBN" => :pmid_isbn,
+        "first_page"=> :first_page,
       },
       required_fields: [
         :original_id,
         :quote,
         :page_location,
-        :pmid_isbn
+        :pmid_isbn,
+        :first_page        
       ],
         tests: [
           {
@@ -364,6 +366,35 @@ module Hippocampome
         'GAT-1' => 'GAT-1',
         'mGluR2/3' => 'mGluR2/3',
         'CGRP' => 'CGRP',
+        'Kv3.1'=> 'Kv3.1',
+        'mGluR5'=>'mGluR5',
+        'Prox1'=>'Prox1',  
+        'NG'=>'NG',
+        'GABAa \delta'=>'GABAa \delta',
+        'VILIP'=>'VILIP',
+        'Cx36'=>'Cx36',
+        'Mus1R'=>'Mus1R',
+        'Mus3R'=>'Mus3R',
+        'Mus4R'=>'Mus4R',
+        'ErbB4'=>'ErbB4',
+        'CaM'=>'CaM',
+        'Y1'=>'Y1',
+        'Man1a'=>'Man1a',
+        'Bok'=>'Bok',
+        'PCP4'=>'PCP4',
+        'AMIGO2'=>'AMIGO2',
+        'Sub P'=>'Sub P',
+        'AMPAR 2/3'=>'AMPAR 2/3',
+        'Disc1'=>'Disc1',
+        'PSA-NCAM'=>'PSA-NCAM',
+        'BDNF'=>'BDNF',
+        'p-CREB'=>'p-CREB',
+        'SCIP'=>'SCIP',
+        'Math-2'=>'Math-2',
+        'Neuropilin2'=>'Neuropilin2',
+        'Id-2'=>'Id-2',
+        'vGAT'=>'vGAT',
+
       },
       required_fields: [
         'type_id'
