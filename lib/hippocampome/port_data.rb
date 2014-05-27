@@ -111,13 +111,15 @@ module Hippocampome
         "Protocol Reference" => :protocol_quote,
         "Protocol location in reference" => :protocol_page_location,
         "Species Reference" => :species_quote,
-        "Species location in reference" => :species_page_location
+        "Species location in reference" => :species_page_location,
+        "first_page"=> :first_page,
       },
       required_fields: [
         :original_id,
         :data_quote,
         :data_page_location,
-        :pmid_isbn
+        :pmid_isbn,
+        :first_page
       ],
       row_transform: 2,
       prepare_headers: lambda {
