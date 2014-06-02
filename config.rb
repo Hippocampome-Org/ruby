@@ -4,7 +4,7 @@ require 'pry'
 
 DB_NAME = "hippocampome"
 DB_USERNAME = "hdb"
-DB_PASSWORD = "h1pp0camp"
+DB_PASSWORD = ""
 DB_ENCODING = "utf8"
 
 PORTING_LIBRARY = {

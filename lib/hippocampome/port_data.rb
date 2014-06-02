@@ -67,19 +67,21 @@ module Hippocampome
       ],
         field_mapping: {
         "ReferenceID" => :original_id,
+        "pmid_isbn_page"=> :pmid_isbn_page,
         #"CellType" => :cell_type,
         "Material Used" => :quote,
         #:interpretation => :interpretation,
         "Location in reference" => :page_location,
         "PMID/ISBN" => :pmid_isbn,
-        "first_page"=> :first_page,
+        
       },
       required_fields: [
         :original_id,
         :quote,
         :page_location,
+        :pmid_isbn_page,
         :pmid_isbn,
-        :first_page        
+                
       ],
         tests: [
           {
@@ -105,6 +107,7 @@ module Hippocampome
       ],
         field_mapping: {
         "PMID/ISBN" => :pmid_isbn,
+        "pmid_isbn_page"=> :pmid_isbn_page,
         "Reference ID" => :original_id,
         "Material used" => :data_quote,
         "Location in reference" => :data_page_location,
@@ -112,14 +115,15 @@ module Hippocampome
         "Protocol location in reference" => :protocol_page_location,
         "Species Reference" => :species_quote,
         "Species location in reference" => :species_page_location,
-        "first_page"=> :first_page,
+        
       },
       required_fields: [
         :original_id,
         :data_quote,
         :data_page_location,
+        :pmid_isbn_page,
         :pmid_isbn,
-        :first_page
+        
       ],
       row_transform: 2,
       prepare_headers: lambda {
