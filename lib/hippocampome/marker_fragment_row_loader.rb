@@ -60,6 +60,8 @@ module Hippocampome
         original_id: @record.original_id,
         quote: @record.fields["#{fragment_type}_quote".to_sym],
         page_location: @record.fields["#{fragment_type}_page_location".to_sym],
+        pmid_isbn: @record.fields["#{fragment_type}_pmid_isbn".to_sym],
+        pmid_isbn_page: @record.fields["#{fragment_type}_pmid_isbn_page".to_sym],
         type: fragment_type
       }
       instance_variable_set("@#{fragment_type}_fragment", Fragment.new(values))
