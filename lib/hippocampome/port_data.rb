@@ -347,7 +347,7 @@ module Hippocampome
         'ENK' => 'ENK',
         'GABAa \alpha' => 'Gaba-a-alpha',
         'Mus2R' => 'Mus2R',
-        'sub P rec'  => 'Sub P',
+        'sub P rec'  => 'Sub P Rec',
         'vGluT3' => 'vGluT3',
         'CoupTF II' => 'CoupTF II',
         '5HT-3' => '5HT-3',
