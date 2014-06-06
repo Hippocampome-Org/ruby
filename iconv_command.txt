@@ -36,6 +36,4 @@ continue
 
 mysql -u hdb -p hippocampome < user.sql
 
-mysql -u hdb -p hippocampome < update.sql
-
 mysqldump -u hdb -p hippocampome > hippodevome_yyyymmddhhmm.sql
