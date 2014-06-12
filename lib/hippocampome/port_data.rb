@@ -27,7 +27,7 @@ module Hippocampome
         'SUB'=>:SUB,
         'EC'=>:EC
       }, 
-      required_fields: [:subregion, :name, :id, :status]
+      required_fields: [:subregion, :name, :id, :status, :excit_inhib]
     },
 
 

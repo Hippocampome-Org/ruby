@@ -105,6 +105,7 @@ CREATE TABLE Type (
   subregion VARCHAR(8),
   name VARCHAR(255),
   nickname VARCHAR(64),
+  excit_inhib ENUM('e', 'i'),
   status ENUM('active', 'frozen'),
   notes TEXT
 );
