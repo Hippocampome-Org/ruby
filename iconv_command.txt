@@ -26,6 +26,7 @@ iconv -f latin1 -t utf8 ../../dat/csv/packet_notes.csv > data/source/packet_note
 iconv -f latin1 -t utf8 ../../dat/csv/synonym.csv > data/source/synonym.csv
 
 iconv -f latin1 -t utf8 ../../dat/csv/type.csv > data/source/type.csv
+iconv -f latin1 -t utf8 ../../dat/csv/type_dev.csv > data/source/type_dev.csv
 
 
 mysql -u hdb -p hippocampome < db/hippocampome_schema.sql
